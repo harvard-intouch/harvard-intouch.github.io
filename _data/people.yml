@@ -6,14 +6,28 @@
       image: /images/people/john-ahrens.png
       email: ahrensj@g.harvard.edu
       blurb: |-
-        Hi, my name''s John Ahrens and I''m in Jennifer Lewis'' lab. Reach out to me anytime. I often talk with students about work-life balance, setting expectations for your work, how to get/stay organized, advisor relationships, outdoor activities throughout New England (surfing, hiking, camping, basketball).
+        Hi, my name is John Ahrens and I work in the Jennifer Lewis lab. Reach out to me anytime. I often talk with students about work-life balance, setting expectations for your work, how to get/stay organized, advisor relationships, outdoor activities throughout New England (surfing, hiking, camping, basketball).
+    - name: Larissa Zhou
+      title: G3, MechE
+      site: https://larissazhou.github.io/
+      email: zhou6@fas.harvard.edu
+      image: /images/people/larissa-zhou.png
+      blurb: |-
+      	Hello! I am Larissa Zhou. I am a G3 in mechanical engineering and materials science, advised by Prof. Dave Weitz. My research is on food texture and building devices for cooking in space. I worked as a food scientist for 7 years between undergrad and grad school. I am happy to talk about adjusting to grad school after being out of academia for a while, burnout, the Harvard bubble, working alone, finding mentors, feeling stupid, figuring out who you want to be when you grow up... I love to climb and to eat Chinese food. 	
     - name: Yaniv Yacoby
       title: G5, CS
       site: https://yanivyacoby.github.io/
       email: yanivyacoby@g.harvard.edu
       image: /images/people/yaniv-yacoby.png
       blurb: |-
-        Hello! My name is Yaniv and I''m a PhD student in Finale Doshi-Velez''s lab. I love music, reality TV, gummy candy, cycling, and cats. Don''t hesitate to reach out to chat if anything is on your mind!
+        Hello! My name is Yaniv and I am a PhD student working with Prof. Finale Doshi-Velez. I work on developing machine learning methodology for safety-critical domains such as healthcare. I love music, reality TV, gummy candy, cycling, and cats. I am happy to brainstorm how to improve advising relationships, building a supportive community, mental health, imposter phenomenon, setting healthy expectations, work/life balance, etc. 
+    - name: Lily Xu
+      title: G4, CS
+      site: https://lily-x.github.io/
+      email: lily_xu@g.harvard.edu 
+      image: /images/people/lily-xu.png
+      blurb: |-
+      	Hi! My name is Lily Xu and I am a PhD student studying computer science, advised by Prof. Milind Tambe. My work is on AI for conservation, applying machine learning and game theory to wildlife conservation. I love spending time in the outdoors, dancing, cooking, and riding my bike around Camberville. 
     
 - section: "Former Members"
   members:
