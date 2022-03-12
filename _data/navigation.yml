@@ -1,14 +1,8 @@
 # main links links
 main:
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "People"
     url: /people/    
-
-  - title: "🎶"
-    url: /bayesonce/    
 
   - title: "Joining"
     url: /joining/    
