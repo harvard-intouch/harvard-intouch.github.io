@@ -1,28 +1,8 @@
-# DtAK Lab Website
+# InTouch Lab Website
 
-This is the DtAK website, built on top of the [academicpages template](https://github.com/academicpages/academicpages.github.io).
+This is the InTouch website, built on top of the [academicpages template](https://github.com/academicpages/academicpages.github.io).
 
-## To add your [publications](https://dtak.github.io/publications)
-
-Update [`_data/publications.yml`](./_data/publications.yml) to include a new YAML array entry of the form:
-
-```yaml
-- title: UnICoRn: Unsupervised Interpretable COol RepresentatioNs
-  year: 2020
-  authors: me, you, and Finale Doshi-Velez
-  venue: Yaniv's International Conference on Unsupervised Probability
-  links:
-    - text: "pdf"
-      url: https://arxiv.org/pdf/XXXX.YYYYY.pdf
-    - text: "code"
-      url: https://github.com/dtak/ZZZZZZ
-```
-
-The `links` section is a sub-array where you can list any number of links (which will appear in brackets at the end of the entry, with your specified `text` and `url`). For consistency, we recommend using `pdf` to link directly to the paper PDF, `link` to link to the paper in the context of its publication venue, and `code` to link to an associated Github repository.
-
-Note that the list is not automatically sorted, so please try to insert your publication in the appropriate place chronologically!
-
-## To update your [profile](https://dtak.github.io/people)
+## To update your profile
 
 Find and edit your entry in [`_data/people.yml`](./_data/people.yml), which should look something like this:
 
@@ -36,7 +16,7 @@ Find and edit your entry in [`_data/people.yml`](./_data/people.yml), which shou
     (an optional very short description of your work that will appear on hover)
 ```
 
-Personal `image`s should be square, 400 by 400 pixels, and uploaded to the [./images/people](./images/people) directory. You can compress images down to 400x400 using [this compressor](https://imagecompressor.com/) if you need.
+Personal `image`s should be square, 400 by 400 pixels, and uploaded to the [./images/people](./images/people) directory. Please compress images down using [this compressor](https://imagecompressor.com/) so the site loads quickly.
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
