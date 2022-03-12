@@ -1,4 +1,4 @@
-# InTouch Lab Website
+# InTouch Website
 
 This is the InTouch website, built on top of the [academicpages template](https://github.com/academicpages/academicpages.github.io).
 
