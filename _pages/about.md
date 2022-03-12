@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "InTouch: A SEAS Peer-to-Peer Support Network, for Grad Students, by Grad Students"
+title: "InTouch"
 excerpt: "About InTouch"
 author_profile: true
 redirect_from: 
