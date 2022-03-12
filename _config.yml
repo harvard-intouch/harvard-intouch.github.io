@@ -11,8 +11,8 @@ title                    : "InTouch"
 title_separator          : "-"
 name                     : &name "InTouch"
 description              : &description "Harvard's Data to Actionable Knowledge Lab"
-url                      : https://yanivyacoby.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : intouch # the subpath of your site, e.g. "/blog"
+url                      : https://yanivyacoby.github.io/intouch # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true

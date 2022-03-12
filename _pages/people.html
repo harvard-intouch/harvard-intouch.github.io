@@ -12,9 +12,9 @@ permalink: /people/
       <div class='person' tabindex='0' {% if p.blurb %} data-tippy-content='{{ p.blurb }}' {% endif %}>
         <div class='person__image'>
           {% if p.hover %}
-            <img class='person__image__hover' src='{{ site.baseurl }}{{ p.hover }}'>
+            <img class='person__image__hover' src='{{ site.url }}{{ p.hover }}'>
           {% endif %}
-          <img class='person__image__headshot' src='{{ site.baseurl }}{{ p.image }}'>
+          <img class='person__image__headshot' src='{{ site.url }}{{ p.image }}'>
         </div>
 
         <div class='person__name'>
