@@ -6,14 +6,14 @@
       image: /images/people/john-ahrens.png
       email: ahrensj@g.harvard.edu
       blurb: |-
-        Hi, my name\'s John Ahrens and I\'m in Jennifer Lewis\' lab. Reach out to me anytime. I often talk with students about work-life balance, setting expectations for your work, how to get/stay organized, advisor relationships, outdoor activities throughout New England (surfing, hiking, camping, basketball).
+        Hi, my name''s John Ahrens and I''m in Jennifer Lewis'' lab. Reach out to me anytime. I often talk with students about work-life balance, setting expectations for your work, how to get/stay organized, advisor relationships, outdoor activities throughout New England (surfing, hiking, camping, basketball).
     - name: Yaniv Yacoby
       title: G5, CS
       site: https://yanivyacoby.github.io/
       email: yanivyacoby@g.harvard.edu
-      image: /images/people/yaniv.jpg
+      image: /images/people/yaniv-yacoby.png
       blurb: |-
-        Hello! My name is Yaniv and I\'m a PhD student in Finale Doshi-Velez\'s lab. I love music, reality TV, gummy candy, cycling, and cats. Don\'t hesitate to reach out to chat if anything is on your mind!
+        Hello! My name is Yaniv and I''m a PhD student in Finale Doshi-Velez''s lab. I love music, reality TV, gummy candy, cycling, and cats. Don''t hesitate to reach out to chat if anything is on your mind!
     
 - section: "Former Members"
   members:
