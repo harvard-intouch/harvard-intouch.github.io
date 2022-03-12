@@ -1,0 +1,370 @@
+- title: 'Generalizing Off-Policy Evaluation From a Causal Perspective For Sequential Decision-Making'
+  authors: 'S Parbhoo, S Joshi, F Doshi-Velez'
+  venue: 'Preprint'
+  year: '2022'
+  links:
+   - text: pdf
+     url: https://arxiv.org/pdf/2201.08262.pdf
+   
+- title: 'Learning Predictive and Interpretable Timeseries Summaries from ICU Data'
+  authors: 'N Johnson, S Parbhoo, A Ross, F Doshi-Velez'
+  venue: 'In Proceedings of AMIA Annual Symposium'
+  year: '2021'
+  links:
+    - text: pdf
+      url: https://arxiv.org/pdf/2109.11043.pdf
+      
+- title: 'On formalizing causal off-policy evaluation for sequential decision-making'
+  authors: 'S Parbhoo *, S Joshi *'
+  venue: 'proceedings at the International Conference on Machine Learning: Workshop on Neglected Assumptions in Causal Inference'
+  year: '2021'
+   
+- title: 'Pre-emptive Learning to Defer for Sequential Medical Decision-Making Under Uncertainty'
+  authors: 'S Joshi *, S Parbhoo *, F Doshi-Velez'
+  venue: 'proceedings at the International Conference on Machine Learning: Workshop on Interpretable Machine Learning for Healthcare'
+  year: '2021'
+  links: 
+    - text: pdf
+      url: https://arxiv.org/pdf/2109.06312.pdf
+      
+- title: 'Optimizing for Interpretability in Deep Neural Networks with Tree Regularization'
+  authors: 'M Wu, S Parbhoo, M Hughes, V Roth, F Doshi-Velez'
+  venue: 'Journal of AI Research (JAIR)'
+  year: '2021'
+  links:
+    - text: pdf
+      url: https://www.jair.org/index.php/jair/article/view/12558/26715
+  
+- title: 'Promises and Pitfalls of Black-Box Concept Learning Models'
+  authors: 'A Mahinpei, J Clark, I Lage, F Doshi-Velez, W Pan'
+  venue: 'proceedings at the Internation Conference on Machine Learning: Workshop on Theoretic Foundation, Criticism, and Application Trend of Explainable AI'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://arxiv.org/abs/2106.13314
+
+- title: 'Wide Mean-Field Variational Bayesian Neural Networks Ignore the Data'
+  authors: 'B Coker, W Pan, F Doshi-Velez'
+  venue: 'proceedings at the International Conference on Machine Learning: Workshop on Uncertainty & Robustness in Deep Learning (ICML)'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://arxiv.org/abs/2106.07052
+    
+- title: 'Prediction-focused Mixture Models'
+  authors: 'S Narayanan *, A Sharma *, C Zeng, F Doshi-Velez'
+  venue: 'proceedings at the International Conference on Machine Learning: Information-Theoretic Methods for Rigorous, Responsible, and Reliable Machine Learning (ICML)'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://arxiv.org/abs/2110.13221v1
+
+- title: 'Generalization in Clinical Prediction Models: The Blessing and Curse of Measurement Indicator Variables'
+  authors: 'J Futoma, M Simons, F Doshi-Velez, R Kamaleswaran'
+  venue: 'Critical Care Explorations'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://journals.lww.com/ccejournal/Fulltext/2021/07000/Generalization_in_Clinical_Prediction_Models__The.3.aspx?context=LatestArticles
+
+- title: Power Constrained Bandit
+  authors: 'J Yao, E Brunskill, W Pan, S Murphy, F Doshi-Velez'
+  venue: 'proceedings at the Machine Learning for Healthcare Conference'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://journals.lww.com/ccejournal/Fulltext/2021/07000/Generalization_in_Clinical_Prediction_Models__The.3.aspx?context=LatestArticles
+
+- title: 'Learning MDPs from Features: Predict-Then-Optimize for Sequential Decision Problems by Reinforcement Learning'
+  authors: 'K Wang, S Shat, H Chen, A Perrault, F Doshi-Velez, M Tambe'
+  venue: 'Preprint'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://arxiv.org/abs/2106.03279
+
+- title: 'Designing AI for Trust and Collaboration in Time-Constrained Medical Decisions: A Sociotechnical Lens'
+  authors: 'M Jacobs, J He, M F. Pradier, B Lam, A C Ahn, T H McCoy, R H Perlis, F Doshi-Velez, K Z Gajos'
+  venue: 'proceedings at the 2021 CHI Conference on Human Factors in Computing Systems'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://dl.acm.org/doi/abs/10.1145/3411764.3445385
+
+- title: Evaluating the Interpretability of Generative Models by Interactive Reconstruction
+  authors: 'A Ross, N Chen, EZ Hang, EL Glassman, F Doshi-Velez'
+  venue: 'proceedings at the 2021 CHI Conference on Human Factors in Computing Systems'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://dl.acm.org/doi/abs/10.1145/3411764.3445296
+
+- title: Machine Learning Techniques for Accountability
+  authors: 'B Kim, F Doshi-Velez'
+  venue: 'AI Magazine'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://www.proquest.com/openview/0deb5a93d32e73a069518332e4b21d37/1?pq-origsite=gscholar&cbl=36813
+
+- title: Learning Under Adversarial and Interventional Shifts
+  authors: 'H Singh, S Joshi, F Doshi-Velez, H Lakkaraju'
+  venue: 'Preprint'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://arxiv.org/abs/2103.15933
+
+
+- title: Depth-Bounded Statistical PCFG Induction as a Model of Human Grammar Acquisition
+  authors: 'L Jin, L Schwartz, F Doshi-Velez, T Miller, W Schuler'
+  venue: 'Computational Linguistics'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://direct.mit.edu/coli/article/47/1/181/97336/Depth-Bounded-Statistical-PCFG-Induction-as-a
+
+- title: Benchmarks, Algorithms, and Metrics for Hierarchical Disentanglement
+  authors: 'AS Ross, F Doshi-Velez'
+  venue: 'Preprint'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://arxiv.org/abs/2102.05185
+
+- title: 'How machine-learning recommendations influence clinician treatment selections: the example of antidepressant selection'
+  authors: 'M Jacobs, MF Pradier, TH McCoy, RH Perlis, F Doshi-Velez, KZ Gajos'
+  venue: 'Translational psychiatry'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://www.nature.com/articles/s41398-021-01224-x
+
+- title: 'Preferential Mixture-of-Experts: Interpretable Models that Rely on Human Expertise As Much As Possible'
+  authors: 'MF Pradier, J Zazo, S Parbhoo, RH Perlis, M Zazzi, F Doshi-Velez'
+  venue: 'Proceedings of Clinical Research Informatics AMIA Summit'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://arxiv.org/abs/2101.05360
+    
+- title: Predicting change in diagnosis from major depression to bipolar disorder after antidepressant initiation
+  authors: 'M F Pradier, M C Hughes, T H McCoy, S A Barroilhet, F Doshi-Velez, R H Perlis'
+  venue: 'Neuropsychopharmacology'
+  year: '2021'
+  links:
+  - text: pdf
+    url: https://www.nature.com/articles/s41386-020-00838-x
+
+- title: Identifying Decision Points for Safe and Interpretable Reinforcement Learning in Hypotension Treatment
+  authors: 'K Zhang, Y Wang, J Du, B Chu, LA Celi, R Kindle, F Doshi-Velez'
+  venue: 'proceedings at the Neural Information Processing Systems Workshop on Machine Learning for Health'
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://arxiv.org/abs/2101.03309
+
+- title: 'Shaping Control Variates for Off-Policy Evaluation'
+  authors: 'S Parbhoo, O Gottesman, F Doshi-Velez'
+  venue: 'proceedings at Neural Information Processing Systems Workshop on Offline Reinforcement Learning'
+  year: '2020'
+    
+- title: 'Artificial Intelligence & Cooperation'
+  authors: 'E Bertino, F Doshi-Velez, M Gini, D Lopresti, D Parkes'
+  venue: 'Preprint'
+  year: 2020
+  links:
+  - text: pdf
+    url: https://arxiv.org/abs/2012.06034
+     
+- title: Learning Interpretable Concept-Based Models with Human Feedback
+  authors: I Lage, F Doshi-Velez
+  venue: 'proceedings at the International Conference on Machine Learning: Workshop on Human Interpretability in Machine Learning'
+  year: 2020
+  links:
+   - text: pdf
+     url: https://arxiv.org/abs/2012.02898
+     
+- title: Interpretable off-policy evaluation in reinforcement learning by highlighting influential transitions
+  authors: O Gottesman, J Futoma, Y Liu, S Parbhoo, L Celi, E Brunskill, F Doshi-Velez
+  venue: 'proceedings at the International Conference on Machine Learning'
+  year: 2020
+  links:
+   - text: pdf
+     url: http://proceedings.mlr.press/v119/gottesman20a/gottesman20a.pdf
+     
+- title: Incorporating Interpretable Output Constraints in Bayesian Neural Networks
+  authors: W Yang, L Lorch, MA Graule, H Lakkaraju, F Doshi-Velez
+  venue: 'proceedings at the Conference on Neural Information Processing Systems'
+  year: 2020
+  links:
+   - text: pdf
+     url: https://arxiv.org/abs/2010.10969
+     
+- title: Transfer learning from well-curated to less-resourced populations with hiv
+  authors: S Parbhoo, M Wieser, V Roth, F Doshi-Velez
+  venue: 'proceedings at the Machine Learning for Health Care Conference'
+  year: 2020
+  links:
+   - text: pdf
+     url: http://proceedings.mlr.press/v126/parbhoo20a.html
+     
+- title: The myth of generalisability in clinical research and machine learning in health care
+  authors: J Futoma, M Simons, T Panch, F Doshi-Velez, LA Celi
+  venue: 'The Lancet Digital Health'
+  year: 2020
+  links:
+   - text: pdf
+     url: https://www.sciencedirect.com/science/article/pii/S2589750020301862
+     
+- title: 'PoRB-Nets: Poisson Process Radial Basis Function Networks'
+  authors: B Coker, MF Pradier, F Doshi-Velez
+  venue: 'proceedings at the Conference on Uncertainty in Artificial Intelligence'
+  year: 2020
+  links:
+   - text: pdf
+     url: http://proceedings.mlr.press/v124/coker20a.html
+
+- title: Failures of Variational Autoencoders and their Effects on Downstream Tasks
+  authors: Yacoby Y, Pan W, Doshi-Velez F
+  venue: 'proceedings at the International Conference on Machine Learning: Workshop on Uncertainty & Robustness in Deep Learning (ICML)'
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://arxiv.org/pdf/2007.07124.pdf
+    
+- title: 'CRUDS: Counterfactual Recourse Using Disentangled Subspaces'
+  authors: M Downs, J Chu, Y Yacoby, F Doshi-Velez, W Pan
+  venue: 'proceedings at the International Conference on Machine Learning: Workshop on Human Interpretability in Machine Learning'
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://finale.seas.harvard.edu/files/finale/files/cruds-_counterfactual_recourse_using_disentangled_subspaces.pdf
+    
+- title: 'BaCOUn - Bayesian Classifers with Out-of-Distribution Uncertainty'
+  authors: Guenais T, Vamvourellis D, Yacoby Y, Doshi-Velez F, Pan W
+  venue: 'proceedings at the International Conference on Machine Learning: Workshop
+    on Uncertainty & Robustness in Deep Learning (ICML)'
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://arxiv.org/pdf/2007.06096.pdf
+    
+- title: 'Amortised Variational Inference for Hierarchical Mixture Models'
+  authors: J Antorán, J Yao, W Pan, F Doshi-Velez, JM Hernández-Lobato
+  venue: 'proceedings at the International Conference on Machine Learning: Workshop
+    on Uncertainty & Robustness in Deep Learning (ICML)'
+  year: '2020'
+  links:
+  - text: pdf
+    url: http://www.gatsby.ucl.ac.uk/~balaji/udl2020/accepted-papers/UDL2020-paper-139.pdf
+    
+- title: Learned Uncertainty-Aware (LUNA) Bases for Bayesian Regression using Multi-Headed Auxiliary Networks
+  authors: Thakur S, Lorsung C, Yacoby Y, Doshi-Velez F, Pan W
+  venue: 'proceedings at the International Conference on Machine Learning: Workshop
+    on Uncertainty & Robustness in Deep Learning (ICML)'
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://arxiv.org/pdf/2006.11695.pdf
+    
+- title: Power-Constrained Bandit
+  authors: Yao J, Brunskill E, Pan W, Murphy S, Doshi-Velez F
+  venue: arXiv:2004.06230
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://arxiv.org/pdf/2004.06230.pdf
+    
+- title: Characterizing and Avoiding Problematic Global Optima of Variational Autoencoders
+  authors: Yacoby Y, Pan W, Doshi-Velez F
+  venue: Advances in Approximate Bayesian Inference
+  year: '2019'
+  links:
+  - text: pdf
+    url: https://finale.seas.harvard.edu/files/finale/files/characterizing_and_avoiding_problematic_global_optima_of_variational_autoencoders.pdf
+    
+- title: Defining Admissible Rewards for High-Confidence Policy Evaluation in Batch
+    Reinforcement Learning
+  authors: Prasad N, Engelhardt B, Doshi-Velez F
+  venue: ACM Conference on Health, Inference and Learning
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://finale.seas.harvard.edu/files/finale/files/defining_admissible_rewards_for_high-confidence_policy_evaluation_in_batch_reinforcement_learning.pdf
+    
+- title: Prediction Focused Topic Models via Feature Selection
+  authors: Ren J, Kunes R, Doshi-Velez F
+  venue: AISTATS
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://finale.seas.harvard.edu/files/finale/files/prediction_focused_topic_models_via_feature_selection.pdf
+    
+- title: 'POPCORN: Partially Observed Prediction Constrained Reinforcement Learning'
+  authors: Futoma J, Hughes M, Doshi-Velez F
+  venue: AISTATS
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://finale.seas.harvard.edu/files/finale/files/popcorn_partially_observed_prediction_constrained_reinforcement_learning.pdf
+    
+- title: Regional Tree Regularization for Interpretability in Deep Neural Networks
+  authors: Wu M, Parbhoo S, Hughes M, Kindle R, Celi L, Zazzi M, Volker R, Doshi-Velez F
+  venue: AAAI
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://finale.seas.harvard.edu/files/finale/files/regional_tree_regularization_for_interpretability_in_deep_neural_networks.pdf
+    
+- title: Ensembles of Locally Independent Prediction Models
+  authors: Ross A, Pan W, Celi L, Doshi-Velez F
+  venue: AAAI
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://finale.seas.harvard.edu/files/finale/files/ensembles_of_locally_independent_prediction_models.pdf
+  - text: code
+    url: https://github.com/dtak/lit
+    
+- title: 'Identifying Distinct, Effective Treatments for Acute Hypotension with SODA-RL:
+    Safely Optimized Diverse Accurate Reinforcement Learning'
+  authors: Futoma F, Masgood M, Doshi-Velez F
+  venue: AMIA CRI
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://finale.seas.harvard.edu/files/finale/files/identifying_distinct_effective_treatments_for_acute_hypotension_with_soda-rl.pdf
+    
+- title: Interpretable Batch IRL to extract clinician goals in ICU Hypotension Management
+  authors: Srinivasan S, Doshi-Velez F
+  venue: AMIA CRI
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://finale.seas.harvard.edu/files/finale/files/interpretable_batch_irl_to_extract_clinician_goals_in_icu_hypotension.pdf
+    
+- title: Big Data in the Assessment of Pediatric Medication Safety
+  authors: McMahon A, Cooper W, Brown J, Carleton B, Doshi-Velez F, Kohane I, Goldman
+    J, Hoffman M, Kamaleswaran R, Sakiyama M, et al.
+  venue: Pediatrics
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://finale.seas.harvard.edu/files/finale/files/big_data_in_the_assessment_of_pediatric_medication_safety.pdf
+    
+- title: Evaluating Machine Learning Articles
+  authors: Doshi-Velez F, Perlis R
+  venue: JAMA
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://finale.seas.harvard.edu/files/finale/files/evaluating_machine_learning_articles.pdf
+    
+- title: Predicting treatment dropout after antidepressant initiation
+  authors: Pradier M, McCoy T, Hughes M, Perlis R, Doshi-Velez F
+  venue: Translational Psychiatry
+  year: '2020'
+  links:
+  - text: pdf
+    url: https://finale.seas.harvard.edu/files/finale/files/

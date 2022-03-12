@@ -1,0 +1,1286 @@
+[
+  {
+    "title": "Characterizing and Avoiding Problematic Global Optima of Variational Autoencoders",
+    "authors": "Yacoby Y, Pan W, Doshi-Velez F",
+    "venue": "Advances in Approximate Bayesian Inference",
+    "year": "2020",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/characterizing_and_avoiding_problematic_global_optima_of_variational_autoencoders.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Defining Admissible Rewards for High-Confidence Policy Evaluation in Batch Reinforcement Learning",
+    "authors": "Prasad N, Engelhardt B, Doshi-Velez F",
+    "venue": "ACM Conference on Health, Inference and Learning",
+    "year": "2020",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/defining_admissible_rewards_for_high-confidence_policy_evaluation_in_batch_reinforcement_learning.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Prediction Focused Topic Models via Feature Selection",
+    "authors": "Ren J, Kunes R, Doshi-Velez F",
+    "venue": "AISTATS",
+    "year": "2020",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/prediction_focused_topic_models_via_feature_selection.pdf"
+      }
+    ]
+  },
+  {
+    "title": "POPCORN: Partially Observed Prediction Constrained Reinforcement Learning",
+    "authors": "Futoma J, Hughes M, Doshi-Velez F",
+    "venue": "AISTATS",
+    "year": "2020",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/popcorn_partially_observed_prediction_constrained_reinforcement_learning.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Regional Tree Regularization for Interpretability in Deep Neural Networks",
+    "authors": "Wu M, Parbhoo S, Hughes M, Kindle R, Celi L, Zazzi M, Volker R, Doshi-Velez F",
+    "venue": "AAAI",
+    "year": "2020",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/regional_tree_regularization_for_interpretability_in_deep_neural_networks.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Regional Tree Regularization for Interpretability in Deep Neural Networks",
+    "authors": "Wu M, Parbhoo S, Hughes M, Kindle R, Celi L, Zazzi M, Volker R, Doshi-Velez F",
+    "venue": "AAAI",
+    "year": "2020",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/regional_tree_regularization_for_interpretability_in_deep_neural_networks.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Ensembles of Locally Independent Prediction Models",
+    "authors": "Ross A, Pan W, Celi L, Doshi-Velez F",
+    "venue": "AAAI",
+    "year": "2020",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/ensembles_of_locally_independent_prediction_models.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Identifying Distinct, Effective Treatments for Acute Hypotension with SODA-RL: Safely Optimized Diverse Accurate Reinforcement Learning",
+    "authors": "Futoma F, Masgood M, Doshi-Velez F",
+    "venue": "AMIA CRI",
+    "year": "2020",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/identifying_distinct_effective_treatments_for_acute_hypotension_with_soda-rl.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Interpretable Batch IRL to extract clinician goals in ICU HypotensionManagement",
+    "authors": "Srinivasan S, Doshi-Velez F",
+    "venue": "AMIA CRI",
+    "year": "2020",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/interpretable_batch_irl_to_extract_clinician_goals_in_icu_hypotension.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Big Data in the Assessment of Pediatric Medication Safety",
+    "authors": "McMahon A, Cooper W, Brown J, Carleton B, Doshi-Velez F, Kohane I, Goldman J, Hoffman M, Kamaleswaran R, Sakiyama M, et al.",
+    "venue": "Pediatrics",
+    "year": "2020",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/big_data_in_the_assessment_of_pediatric_medication_safety.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Evaluating Machine Learning Articles",
+    "authors": "Doshi-Velez F, Perlis R",
+    "venue": "JAMA",
+    "year": "2020",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/evaluating_machine_learning_articles.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Predicting treatment dropout after antidepressant initiation",
+    "authors": "Pradier M, McCoy T, Hughes M, Perlis R, Doshi-Velez F",
+    "venue": "Translational Psychiatry",
+    "year": "2020",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/predicting_treatment_dropout_after_antidepressant_initiation.pdf"
+      }
+    ]
+  },
+  {
+    "title": "A Particle-Based Variational Approach to Bayesian Non-negative Matrix Factorization",
+    "authors": "Masood M, Doshi-Velez F",
+    "venue": "Journal of Machine Learning Research",
+    "year": "2019",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/a_particle-based_variational_approach_to_bayesian_non-negative_matrix_factorization_2.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Model Selection in Bayesian Neural Networks via Horseshoe Priors",
+    "authors": "Ghosh S, Yao J, Doshi-Velez F",
+    "venue": "Journal of Machine Learning Research",
+    "year": "2019",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/model_selection_in_bayesian_neural_networks_via_horseshoe_priors_01.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Defining Admissible Rewards for High Confidence Policy Evaluation",
+    "authors": "Prasad N, Engelhardt B, Doshi-Velez F",
+    "venue": "NeurIPS Workshop on Safety and Robustness in Decision-Making,",
+    "year": "2019",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/defining_admissible_rewards_for_high_confidence_policy_evaluation.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Controlled Direct Effect Priors for Bayesian Neural Networks",
+    "authors": "Ross A, Du J, Sharvit Y, Doshi-Velez F",
+    "venue": "NeurIPS Workshop on Bayesian Deep Learning",
+    "year": "2019",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/controlled_direct_effect_priors_for_bayesian_neural_networks.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Integrating AI Recommendations into The Pharmacologic Management of Major Depressive Disorder",
+    "authors": "Jacobs M, Perlis R, Pradier M, Doshi-Velez F, Mynatt E, Gajos K",
+    "venue": "CSCW Workshop: Identifying Challenges and Opportunities in Human–AI Collaboration in Healthcare",
+    "year": "2019",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/integrating_ai_recommendations_into_the_pharmacologic_management_of_major_depressive_disorder.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Prediction Focused Topic Models Via Vocab Filtering",
+    "authors": "Ren J, Russell R, Doshi-Velez F",
+    "venue": "NeurIPS Workshop on Human-Centric ML",
+    "year": "2019",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/prediction_focused_topic_models_via_vocab_filtering.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Challenges in Computing and Optimizing Upper Bounds of Marginal Likelihood based on Chi-Square Divergences",
+    "authors": "Pradier M, Hughes M, Doshi-Velez F",
+    "venue": "Advances in Approximate Bayesian Inference",
+    "year": "2019",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/challenges_in_computing_and_optimizing_upper_bounds_of_marginal_likelihood_based_on_chi-square_divergences.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Projected BNNs: Avoiding Weight-space Pathologies by Learning Latent Representations of Neural Network Weights",
+    "authors": "Pradier M, Pan W, Yao J, Ghosh S, Doshi-Velez F",
+    "venue": "ACML Workshop on Weakly Supervised Learning Workshop",
+    "year": "2019",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/projected_bnns-_avoiding_weight-space_pathologies_by_learning_latent_representations_of_neural_network_weights.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Prediction Focused Topic Models for Electronic Health Records",
+    "authors": "Ren J, Kunes R, Doshi-Velez F",
+    "venue": "NeurIPS Workshop on Machine Learning for Health",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/prediction_focused_topic_models_for_electronic_health_records.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Do no harm: A roadmap for responsible machine learning for healthcare",
+    "authors": "Wiens J, Saria S, Sendak M, Ghassemi M, Liu V, Doshi-Velez F, Jung K, Heller K, Kale D, Saeed M, et al.",
+    "venue": "Nature Medicine",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/do_no_harm-_a_roadmap_for_responsible_machine_learning_for_healthcare.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Summarizing Agent Strategies",
+    "authors": "Amir O, Doshi-Velez F, Sarne D",
+    "venue": "Journal of Autonomous Agents and Multi-Agent Systems (AAMAS)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/summarizing_agent_strategies.pdf"
+      }
+    ]
+  },
+  {
+    "title": "The Application of Machine Learning Methods to Evaluate Predictors for Live Birth in Programmed Thaw Cycles",
+    "authors": "Vaughan D, Pan W, Yacoby Y, Seidler E, Leung A, Doshi-Velez F, Sakkas D",
+    "venue": "proceedings at the American Society for Reproductive Medicine Scientific Congress & Expo (ASRM)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/the_application_of_machine_learning_methods_to_evaluate_predictors_for_live_birth_in_programmed_thaw_cycles.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Output-Constrained Bayesian Neural Network",
+    "authors": "Yang W, Lorch L, Graule M, Srinivasan S, Suresh A, Yao J, Pradier M, Doshi-Velez F",
+    "venue": "proceedings at the International Conference on Machine Learning: Workshop on Understanding and Improving Generalization in Deep Learning(ICML)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/output-constrained_bayesian_neural_networks_01.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Output-Constrained Bayesian Neural Networks",
+    "authors": "Yang W, Lorch L, Graule M, Srinivasan S, Suresh A, Yao J, Pradier M, Doshi-Velez F",
+    "venue": "proceedings at the International Conference on Machine Learning: Workshop on Uncertainty & Robustness in Deep Learning (ICML)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/output-constrained_bayesian_neural_networks.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Mitigating Model Non-Identifiability in BNN with Latent Variables",
+    "authors": "Yacoby Y, Pan W, Doshi-Velez F",
+    "venue": "proceedings at the International Conference on Machine Learning: Workshop on Uncertainty & Robustness in Deep Learning (ICML)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/mitigating_model_non-identifiability_in_bnn_with_latent_variables.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Quality of Uncertainty Quantification for Bayesian Neural Network Inference",
+    "authors": "Yao J, Pan W, Ghosh S, Doshi-Velez F",
+    "venue": "proceedings at the International Conference on Machine Learning: Workshop on Uncertainty & Robustness in Deep Learning (ICML)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/quality_of_uncertainty_quantification_for_bayesian_neural_network_inference.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Poisson Process Bayesian Neural Networks",
+    "authors": "Coker B, Pradier M, Doshi-Velez F",
+    "venue": "proceedings at the International Conference on Bayesian Nonparametrics (BNP)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/poisson_process_bayesian_neural_networks.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Toward Robust Policy Summarization",
+    "authors": "Lage I, Lifschitz D, Doshi-Velez F, Amir O",
+    "venue": "proceedings at the International Joint Conference on Artificial Intelligence (IJCAI)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/toward_robust_policy_summarization_01.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Toward Robust Summarization of Agent Policies",
+    "authors": "Lage I, Lifschitz D, Doshi-Velez F, Amir O",
+    "venue": "proceedings at the International Conference on Autonomous Agents and Multiagent Systems (AAMAS)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/toward_robust_policy_summarization.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Human Evaluation of Models Built for Interpretability",
+    "authors": "Lage I, Chen E, He J, Narayanan M, Kim B, Gershman S, Doshi-Velez F",
+    "venue": "proceedings at the 7th AAAI Conference on Human Computation and Crowdsourcing (HCOMP)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/human_evaluation_of_models_built_for_interpretability.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Truly Batch Apprenticeship Learning with Deep Successor Features",
+    "authors": "Srinivasan S, Lee D, Doshi-Velez F",
+    "venue": "proceedings at the International Joint Conference on Artificial Intelligence (IJCAI)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/truly_batch_apprenticeship_learning_with_deep_successor_features.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Exploring Computational User Models for Agent Policy Summarization",
+    "authors": "Lage I, Lifschitz D, Doshi-Velez F, Amir O",
+    "venue": "proceedings at the International Joint Conference on Artificial Intelligence: Workshop on Explainable Artificial Intelligence (IJCAI),",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/exploring_computational_user_models_for_agent_policy_summarization.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Explainable Reinforcement Learning via Reward Decomposition",
+    "authors": "Juozapaitis Z, Koul A, Fern A, Erwig M, Doshi-Velez F",
+    "venue": "proceedings at the International Joint Conference on Artificial Intelligence",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/explainable_reinforcement_learning_via_reward_decomposition_01.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Diversity-Inducing Policy Gradient: Using Maximum Mean Discrepancy to Find a Set of Diverse Policies",
+    "authors": "Masood M, Doshi Velez F",
+    "venue": "proceedings at the International Joint Conference on Artificial Intelligence (IJCAI)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/diversity-inducing_policy_gradient_01.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Combining Parametric and Nonparametric Models for off-policy evaluation",
+    "authors": "Gottesman O, Liu Y, Susser E, Brunskill E, Doshi-Velez F",
+    "venue": "International Conference on Machine Learning (IMCL)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/combining_parametric_and_nonparametric_models_for_off-policy_evaluation_01.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Assessing topic model relevance: Evaluation and informative priors",
+    "authors": "Fan A, Doshi-Velez F, Miratrix L",
+    "venue": "Statistical Analysis and Data Mining",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/assessing_topic_model_relevance.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Guidelines for reinforcement learning in healthcare",
+    "authors": "Gottesman O, Johansson F, Komorowski M, Faisal A, Sontag D, Doshi-Velez F, Celi L",
+    "venue": "Nature Medicine",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/guidelines_for_reinforcement_learning_in_healthcare.pdf"
+      }
+    ]
+  },
+  {
+    "title": "An Evaluation of the Human-Interpretability of Explanation",
+    "authors": "Lage I, Chen E, He J, Narayanan M, Gershman S, Kim B, Doshi-Velez F",
+    "venue": "Conference on Neural Information Processing Systems (NeurIPS) Workshop on Correcting and Critiquing Trends in Machine Learning",
+    "year": "2018",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/an_evaluation_of_the_human-interpretability_of_explanation.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Projected BNNs: Avoiding weight-space pathologies by projecting neural network weights",
+    "authors": "Pradier MF, Pan W, Yao J, Ghosh S, Doshi-Velez F",
+    "venue": "Conference on Neural Information Processing Systems (NeurIPS) Workshop on Bayesian Deep Learning",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/projected_bnns-_avoiding_weight-space_pathologies_by_projecting_neural_network_weights.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Hierarchical Stick-breaking Feature Paintbox",
+    "authors": "Fernandez-Pradier M, Pan W, Yao M, Singh R, Doshi-Velez F",
+    "venue": "Conference on Neural Information Processing Systems (NeurIPS) Workshop on All of Bayesian Nonparametrics",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/hierarchical_stick-breaking_feature_paintbox.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Prediction-Constrained POMDPs",
+    "authors": "Futoma J, Hughes MC, Doshi-Velez F",
+    "venue": "Conference on Neural Information Processing Systems (NeurIPS) Workshop on Reinforcement Learning under Partial Observability",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/prediction-constrained_pomdps.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Improving counterfactual reasoning with kernelised dynamic mixing models",
+    "authors": "Parbhoo S, Gottesman O, Ross AS, Komorowski M, Faisal A, Bon I, Roth V, Doshi-Velez F",
+    "venue": "PLoS ONE",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/improving_counterfactual_reasoning_with_kernelised_dynamic_mixing_models.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Human-in-the-Loop Interpretability Prior",
+    "authors": "Lage I, Ross A, Kim B, Gershman S, Doshi-Velez F",
+    "venue": "Conference on Neural Information Processing Systems (NeurIPS)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/human-in-the-loop_interpretability_prior.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Beyond Sparsity: Tree Regularization of Deep Models for Interpretability",
+    "authors": "Wu M, Hughes M, Parbhoo S, Zazzi M, Roth V, Doshi-Velez F",
+    "venue": "Association for the Advancement of Artificial Intelligence (AAAI)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/beyond_sparcity_tree_regularization_of_deep_01.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Diversity-Inducing Policy Gradient: Using MMD to find a set of policies that are diverse in terms of stete-visitation",
+    "authors": "Masood MA, Doshi-Velez F",
+    "venue": "International Conference on Machine Learning (ICML) Exploration in Reinforcement Learning Workshop",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/diversity-inducing_policy_gradient.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Improving Sepsis Treatment Strategies by Combining Deep and Kernel-Based Reinforcement Learning",
+    "authors": "Peng X, Ding Y, Wihl D, Gottesman O, Komorowski M, Lehman L-wei H, Ross A, Faisal A, Doshi-Velez F",
+    "venue": "American Medical Informatics Association (AMIA) Annual Symposium",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/2018improving_sepsis_treatment_strategies_using_deep_reinforcement_learning_and_mixture_of_experts.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors",
+    "authors": "Ghosh S, Yao J, Doshi-Velez F",
+    "venue": "Proceedings of the 35th International Conference on Machine Learning (ICML)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/structured_variational_learning_of_bayesian_neural.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Decomposition of Uncertainty in Bayesian Deep Learning for Efficient and Risk-sensitive Learning",
+    "authors": "Depeweg S, Hernandez-Lobato JM, Doshi-Velez F, Udluft S",
+    "venue": "Proceedings of the 35th International Conference on Machine Learning (ICML)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/decomposition_of_uncertainty_in_bayesian_deep_learning.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Weighted Tensor Decomposition for Learning Latent Variables with Partial Data",
+    "authors": "Gottesman O, Pan W, Doshi-Velez F",
+    "venue": "Proceedings of the 21st International Conference on Artificial Intelligence and Statistics (AISTATS) 2018",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/weighted_tensor_decomposition_for_learning_latent.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Semi-Supervised Prediction-Constrained Topic Models",
+    "authors": "Hughes MC, Hope G, Weiner L, Thomas H. McCoy J, Perlis RH, Sudderth E, Doshi-Velez F",
+    "venue": "Proceedings of the 21st International Conference on Artificial Intelligence and Statistics (AISTATS) 2018",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/semi-supervised_prediction-constrained_topic_models.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Agent Strategy Summarization",
+    "authors": "Amir O, Doshi-Velez F, Sarne D",
+    "venue": "Autonomous Agents and Multiagent Systems, Blue Sky Ideas Track",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/strategysummarization_cameraready.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Accountability of AI Under the Law: The Role of Explanation",
+    "authors": "Doshi-Velez F, Kortz M, Budish R, Bavitz C, Gershman S, O'Brien D, Shieber S, Waldo J, Weinberger D, Wood A",
+    "venue": "Privacy Law Scholars Conference",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/accountability_of_ai_under_the_law.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Unsupervised Grammar Induction with Depth-bounded PCFG",
+    "authors": "Jin L, Doshi-Velez F, Miller T, Schuler W, Schwartz L",
+    "venue": "Association for Computational Linguistics",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/unsupervised_grammar_induction_with_depth-bounded_pcfg.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Improving the Adversarial Robustness and Interpretability of Deep Neural Networks by Regularizing their Input Gradients",
+    "authors": "Ross AS, Doshi-Velez F",
+    "venue": "Association for the Advancement of Artificial Intelligence (AAAI)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/improving_the_adversarial_robustness_and.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Direct Policy Transfer via Hidden Parameter Markov Decision Processes",
+    "authors": "Yao J, Killian T, Konidaris G, Doshi-Velez F",
+    "venue": "International Conference on Machine Learning (ICML) Workshop on Lifelong Learning,",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/direct_hipmdp_llarla.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Behaviour Policy Estimation in Off-Policy Policy Evaluation: Calibration Matters",
+    "authors": "Raghu A, Gottesman O, Liu Y, Komorowski M, Faisal A, Doshi-Velez F, Brunskill E",
+    "venue": "International Conference on Machine Learning (ICML) Workshop on CausalML",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/behaviour_policy_estimation_in_off-policy.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Stitched Trajectories for Off-Policy Learning",
+    "authors": "Sussex S, Gottesman O, Liu Y, Murphy S, Brunskill E, Doshi-Velez F",
+    "venue": "International Conference on Machine Learning (ICML) Workshop on CausalML,",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/2018stitched_trajectories_for_off-policy_learning.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Representation Balancing MDPs for Off-Policy Policy Evaluation",
+    "authors": "Liu Y, Gottesman O, Raghu A, Komorowski M, Faisal A, Doshi-Velez F, Brunskill E",
+    "venue": "International Conference on Machine Learning (ICML) Workshop on CausalML",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/representation_balancing_mdps_for_off-policy.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Regularizing Tensor Decomposition Methods by Optimizing Pseudo-Data",
+    "authors": "Gottesman O, Doshi-Velez F",
+    "venue": "International Conference on Machine Learning (ICML) Exploration in Reinforcement Learning Workshop,",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/2018regularizing_tensor_decomposition_models_by_optimizing_pseudodata.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Learning Qualitatively Diverse and Interpretable Rules for Classification",
+    "authors": "Ross AS, Pan W, Doshi-Velez F",
+    "venue": "International Conference on Machine Learning (ICML) Workshop on Human Interpretability in Machine Learning,",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/learning_qualitatively_diverse_and_interpretable_rules.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Depth-bounding is effective: Improvements and Evaluation of Unsupervised PCFG Induction",
+    "authors": "Jin L, Doshi-Velez F, Miller T, Schuler W, Schwartz L",
+    "venue": "Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/2018depth_bounding_is_effective_improvements_and_evaluation_of_unsupervised_pcfg_induction.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Considerations for Evaluation and Generalization in Interpretable Machine Learning",
+    "authors": "Doshi-Velez F, Kim BEscalante H, Escalera S, Guyon I, Baró X, Güçlütürk Y, Güçlü U, van Gerven MAJ",
+    "venue": "Doshi-Velez F, Kim B",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/chapter-considerations_for_evaluation_and_generalization_in_interpretable_ml.pdf"
+      }
+    ]
+  },
+  {
+    "title": "PhenoLines: Phenotype Comparison Visualizations for Disease Subtyping via Topic Models",
+    "authors": "Glueck M, Naeini MP, Doshi-Velez F, Chevalier F, Khan A, Wigdor D, Brudno M",
+    "venue": "IEEE Transactions on Visualization and Computer Graphics",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/doshi-velez_j-phenolines_phenotype_comparison_visualizations.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Predicting intervention onset in the ICU with switching state space models",
+    "authors": "Ghassemi M, Wu M, Hughes MC, Szolovits P, Doshi-Velez F",
+    "venue": "American Medical Informatics Association (AMIA),",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/predicting_intervention_onset_in_the_icu_with_switching_state_space_models.pdf"
+      }
+    ]
+  },
+  {
+    "title": "PhenoLines: Phenotype Comparison Visualizations for Disease Subtyping via Topic Models",
+    "authors": "Glueck M, Naeini MP, Doshi-Velez F, Chevalier F, Khan A, Wigdor D, Brudno M",
+    "venue": "Conference on Visual Analytics Science and Technology (VAST),",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/doshi-velez_j-phenolines_phenotype_comparison_visualizations_01.pdf"
+      }
+    ]
+  },
+  {
+    "title": "The Neural LASSO: Local Linear Sparsity for Interpretable Explanations",
+    "authors": "Ross AS, Lage I, Doshi-Velez F",
+    "venue": "Neural Information Processing Systems (NIPS) Workshop on Transparent and Interpretable Machine Learning in Safety Critical Environments",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/2017the_neural_lasso_local_linear_sparsity_for_interpretable_explanations.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Beyond Sparsity: Tree Regularization of Deep Models for Interpretability",
+    "authors": "Wu M, Hughes M, Parbhoo S, Zazzi M, Roth V, Doshi-Velez F",
+    "venue": "Neural Information Processing Systems (NIPS) Workshop on Transparent and Interpretable Machine Learning in Safety Critical Environments",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/beyond_sparcity_tree_regularization_of_deep.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Counterfactual Reasoning with Dynamic Switching Models for HIV Therapy Selection",
+    "authors": "Parbhoo S, Roth V, Doshi-Velez F",
+    "venue": "Neural Information Processing Systems (NIPS) Workshop on Machine Learning for Healthcare",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/2017counterfactual_reasoning_with_dynamic_switching_models_for_hiv_therapy_selection.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Prediction-Constrained Topic Models for Antidepressant Recommendation",
+    "authors": "Hughes MC, Hope G, Weiner L, McCoy TH, Perlis RH, Sudderth EB, Doshi-Velez F",
+    "venue": "Neural Information Processing Systems (NIPS) Workshop on Machine Learning for Healthcare",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/prediction-constrained_topic_models_for_antidepressant_recommendation.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Model Selection in Bayesian Neural Networks via Horseshoe Priors",
+    "authors": "Ghosh S, Doshi-Velez F",
+    "venue": "Neural Information Processing Systems (NIPS) Workshop on Bayesian Deep Learning",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/model_selection_in_bayesian_neural_networks_via_horseshoe_priors.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Structured Variational Autoencoders for the Beta-Bernoulli Process",
+    "authors": "Singh R, Ling J, Doshi-Velez F",
+    "venue": "Neural Information Processing Systems (NIPS) Workshop on Advances in Approximate Bayesian Inference",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/structured_variational_autoencoders_for_the_beta-bernoulli_process.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Clustering LaTeX Solutions to Machine Learning Assignments for Rapid Assessment",
+    "authors": "Tan S, Doshi-Velez F, Quiroz J, Glassman E",
+    "venue": "Advancing Education with Data Knowledge Discovery and Data Mining (KDD) Workshop",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/2017clustering_latex_solutions_to_machine_learning_assignments_for_rapid_assessment.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Uncertainty Decomposition in Bayesian Neural Networks with Latent Variables",
+    "authors": "Depeweg S, Hernandez-Lobato JM, Doshi-Velez F, Udluft S",
+    "venue": "International Conference on Machine Learning (ICML) Workshop",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/uncertainty_decomposition_in_bayesian_neural_networks_with_latent_variables.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Combining Kernel and Model Based Learning for HIV Therapy Selection",
+    "authors": "Parbhoo S, Bogojeska J, Zazzi M, Roth V, Doshi-Velez F",
+    "venue": "AMIA Summits on Translational Science Proceedings",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/combining_kernel_and_model_based_learning_for_hiv_therapy_selection.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Prior Matters: Simple and General Methods for Evaluating and Improving Topic Quality in Topic Modeling",
+    "authors": "Fan A, Doshi-Velez F, Miratrix L",
+    "venue": "Text as Data",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/2017prior_matters_simple_and_general_methods_for_evaluating_and_improving_topic_quality_in_topic_modeling.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Robust and Efficient Transfer Learning with Hidden Parameter Markov Decision Processes",
+    "authors": "Killian T, Daulton S, Konidaris G, Doshi-Velez F",
+    "venue": "Neural Information Processing Systems (NIPS)",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/robust_and_efficient_transfer_learning_with_hidden_parameter_markov_decision_processes.pdf"
+      }
+    ]
+  },
+  {
+    "title": "A Bayesian Framework for Learning Rule Sets for Interpretable Classification",
+    "authors": "Wang T, Rudin C, Doshi-Velez F, Liu Y, Klampfl E, MacNeille P",
+    "venue": "Journal of Machine Learning",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/doshi-velez_j_2017-a_bayesian_framework_for_learning_rule_sets.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Right for the Right Reasons: Training Differentiable Models by Constraining their Explananations",
+    "authors": "Ross AS, Hughes MC, Doshi-Velez F",
+    "venue": "International Joint Conference on Artificial Intelligence (IJCAI)",
+    "year": "2017",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/ross_right_for_the_right_reasons.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Restricted Indian Buffet Processes",
+    "authors": "Doshi-Velez F, Williamson S",
+    "venue": "Statistics and Computing",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/restricted_indian_buffet_processes.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Understanding Vasopressor Intervention and Weaning: Risk Prediction in a Public Heterogeneous Clinical Time Series Database",
+    "authors": "Wu M, Ghassemi M, Fend M, Celi LA, Szolovits P, Doshi-Velez F",
+    "venue": "Journal of the American Medical Informatics Association",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/understanding_vasopressor_intervention_and_weaning_risk_prediction_in_a_public_heterogenous_clinical_time_series_database.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Learning and Policy Search in Stochastic Dynamical Systems with Bayesian Neural Networks",
+    "authors": "Depewag S, Hernández-Lobato JM, Doshi-Velez F, Udluft S",
+    "venue": "ICLR",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/learning_and_policy_search_in_stochastic_dynamical_systems_with_bayesian_neural_networks.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Combining Kernel and Model Based Learning for HIV Therapy Selection",
+    "authors": "Parbhoo S, Bogojeska J, Zazzi M, Roth V, Doshi-Velez F",
+    "venue": "Neural Information Processing Systems (NIPS) Workshop for Machine Learning and Healthcare",
+    "year": "2016",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/combining_kernel_and_model_based_learning_for_hiv_therapy_selection_01.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Transfer Learning Across Patient Variations with Hidden Parameter Markov Decision Processes",
+    "authors": "Killian TW, Konidaris G, Doshi-Velez F",
+    "venue": "Neural Information Processing Systems (NIPS) Workshop for Machine Learning and Healthcare",
+    "year": "2016",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/transfer_learning_across_patient_variations_with_hidden_parameter_markov_decision_processes.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Supervised topic models for clinical interpretability",
+    "authors": "Hughes MC, Elibol HM, McCoy T, Perlis R, Doshi-Velez F",
+    "venue": "Neural Information Processing Systems (NIPS) Workshop for Machine Learning and Healthcare",
+    "year": "2016",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/supervised_topic_models_for_clinical_interpretability.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Robust Posterior Exploration in NMF",
+    "authors": "Masood MA, Doshi-Velez F",
+    "venue": "International Conference on Machine Learning (ICML) Workshop on Geometry in Machine Learning",
+    "year": "2016",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/2016robust_posterior_exploration_in_nmf.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Memory-Bounded Left-Corner Unsupervised Grammar Induction on Child-Directed Input",
+    "authors": "Shain C, Bryce W, Jin L, Krakovna V, Doshi-Velez F, Miller T, Schuler W, Schwartz L",
+    "venue": "Computational Linguistics: Technical Papers (COLING)",
+    "year": "2016",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/shain_memory-bounded_left-corner.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Hidden Parameter Markov Decision Processes: A Semiparametric Regression Approach for Discovering Latent Task Parametrizations",
+    "authors": "Doshi-Velez F, Konidaris G",
+    "venue": "IJCAI",
+    "year": "2016",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/hidden_parameter_markov_decision_processes.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Cross-Corpora Unsupervised Learning of Trajectories in Autism Spectrum Disorders",
+    "authors": "Elibol M, Nguyen V, Linderman S, Johnson M, Hashmi A, Doshi-Velez F",
+    "venue": "Journal of Machine Learning Research",
+    "year": "2016",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/cross-corpora_unsupervised_learning_of_trajectories_in_autism_spectrum_disorderes.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Spectral M-estimation with Application to Hidden Markov Models: Supplementary Material",
+    "authors": "Tran D, Kim M, Doshi-Velz F",
+    "venue": "AISTATS",
+    "year": "2016",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/spectral_m-estimation_with_applications_to_hidden_markov_models_supplementary_material.pdf"
+      }
+    ]
+  },
+  {
+    "title": "A Characterization of the Non-Uniqueness of Nonnegative Matrix Factorizations",
+    "authors": "Pan W, Doshi-Velez F",
+    "venue": "arXiv:1604.00653",
+    "year": "2016",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/a_characterization_of_the_non-uniqueness_of_nonnegative_matrix_factorizations.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Cost-Sensitive Batch Mode Active Learning: Designing Astronomical Observation by Optimizing Telescope Time and Telescope Choice",
+    "authors": "Xia X, Protopapas P, Doshi-Velez F",
+    "venue": "2016",
+    "year": "2016",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/cost-sensitive_batch_mode_active_learning.pdf"
+      }
+    ]
+  },
+  {
+    "title": "An Empirical Comparison of Sampling Quality Metrics: A Case Study for Bayesian Nonnegative Matrix Factorization",
+    "authors": "Masood A, Pan W, Doshi-Velez F",
+    "venue": "arXiv preprint arXiv:1606.06250",
+    "year": "2016",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/an_empirical_comparison_of_sampling_quality_metrics.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Machine Learning Approaches to Environmental Disturbance Rejection in Multi-Axis Optoelectronic Force Sensors",
+    "authors": "Gafford J, Doshi-Velez F, Wood R, Walsh C",
+    "venue": "Sensors and Actuators A: Physical",
+    "year": "2016",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/machine_learning_approaches_to_envionmental_disturbance_rejection_in_multi-axis_optoelectronic_force_sensors.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Electronic Health Record Based Algorithm to Identify Patients with Autism Spectrum Disorder",
+    "authors": "Lingren T, Chen P, Bochenek J, Doshi-Velez F, Manning-Courtney P, Bickel J, Welchons LW, Reinhold J, Bing N, Ni Y, et al.",
+    "venue": "PLoS ONE 11(7): e0159621",
+    "year": "2016",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/electronic_health_record_based_algorithm_to_identify_patients_with_autism_spectrum_disorder.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Increasing the Interpretability of Recurrent Neural Networks Using Hidden Markov Models",
+    "authors": "Krakovna V, Doshi-Velez F",
+    "venue": "arXiv:1606.05320",
+    "year": "2016",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/increasing_the_interpretability_of_recurrent_neural_networks_using_hidden_markov_models.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Bayesian Or's of And's for Interpretable Classification with Application to Context Aware Recommender Systems",
+    "authors": "Wang T, Rudin C, Doshi-Velez F, Liu Y, Klampfl E, MacNeille P",
+    "venue": "arXiv:1504.07614",
+    "year": "2015",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/techreportboa_wangetal.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Mind the Gap: A Generative Approach to Interpretable Feature Selection and Extraction",
+    "authors": "Kim B, Shah JA, Doshi-Velez F",
+    "venue": "Advances in Neural Information Processing Systems",
+    "year": "2015",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/5957-mind-the-gap-a-generative-approach-to-interpretable-feature-selection-and-extraction.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Prevalence of Inflammatory Bowel Disease Among Patients with Autism Spectrum Disorders",
+    "authors": "Doshi-Velez F, Avillach P, Palmer N, Bousvaros A, Ge Y, Fox K, Steinberg G, Spettell C, Juster I, Kohane I",
+    "venue": "Inflammatory bowel diseases",
+    "year": "2015",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/ibd.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Bayesian Nonparametric Methods for Partially-Observable Reinforcement Learning",
+    "authors": "Doshi-Velez F, Pfau D, Wood F, Roy N",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/doshi-velez-tpami-2015.pdf"
+      }
+    ]
+  },
+  {
+    "title": "HackEbola with Data: On the hackathon format for timely data analysis.",
+    "authors": "Doshi-Velez F, Marshall YE",
+    "venue": "2015",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/summary_of_hackebola.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Graph-Sparse LDA: A Topic Model with Structured Sparsity",
+    "authors": "Doshi-Velez F, Wallace BC, Adams RP",
+    "venue": "AAAI",
+    "year": "",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/1410.4510v2.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Comorbidity clusters in autism spectrum disorders: an electronic health record time-series analysis",
+    "authors": "Doshi-Velez F, Ge Y, Kohane I",
+    "venue": "Pediatrics",
+    "year": "2014",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/cormobidity_cluster.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Graph-Sparse LDA: A Topic Model with Structured Sparsity",
+    "authors": "Doshi-Velez F, Wallace B, Adams R",
+    "venue": "arXiv:1410.4510",
+    "year": "2014",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/graph_sparsity.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Hidden Parameter Markov Decision Processes: An Emerging Paradigm for Modeling Families of Related Tasks",
+    "authors": "Konidaris G, Doshi-Velez F",
+    "venue": "AAAI 2014 Fall Symposium on Knowledge, Skill, and Behavior Transfer in Autonomous Robots",
+    "year": "2014",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/hipmdps_emerging.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Unfolding Physiological State: Mortality Modelling in Intensive Care Units",
+    "authors": "Ghassemi M, Naumann T, Doshi-Velez F, Brimmer N, Joshi R, Rumshisky A, Szolovits P",
+    "venue": "ACM SIGKDD international conference on Knowledge discovery and data mining",
+    "year": "2014",
+    "links": [
+      {
+        "text": "pdf",
+        "url": "https://finale.seas.harvard.edu/files/finale/files/unfolding_physiological_state.pdf"
+      }
+    ]
+  }
+]

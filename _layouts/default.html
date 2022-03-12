@@ -1,0 +1,42 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        <a href='https://www.seas.harvard.edu/' target='_blank'>
+          <img class='harvard-logo' src='/images/H_SEAS_logo_RGB.png'>
+        </a>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    <script src="https://unpkg.com/@popperjs/core@2"></script>
+    <script src="https://unpkg.com/tippy.js@6"></script>
+
+    {% include scripts.html %}
+
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        tippy('[data-tippy-content]');
+      });
+    </script>
+  </body>
+</html>

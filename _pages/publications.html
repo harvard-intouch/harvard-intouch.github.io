@@ -1,0 +1,26 @@
+---
+layout: archive
+title: "Recent Publications"
+permalink: /publications/
+---
+
+<p>
+  You can find DtAK publications from past years at <a href="https://scholar.google.com/citations?user=hwQtFB0AAAAJ&hl=en&oi=sra">Finale's Google Scholar profile</a>.
+</p>
+
+{% include base_path %}
+
+{% for p in site.data.publications %}
+  <div class='publication'>
+    <strong>{{ p.title }}</strong>
+    <div class='publication--authors'> {{ p.authors }} </div>
+    <div class='publication--venue-and-links'>
+      <em>{{ p.venue }}</em>, {{ p.year }}
+      {% if p.links %}
+        {% for link in p.links %}
+          <a href='{{link.url}}' target='_blank'>[{{link.text}}]</a>
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+{% endfor %}
