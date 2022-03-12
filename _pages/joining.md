@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: "Joining"
+title: "Interested in participting as a peer staffer?"
 permalink: /joining/
 ---
-
-## Interested in participting as a peer staffer?
 
 Fill out the form below, or feel free to email us: (John Ahrens - ahrensj@g.harvard.edu).
 
