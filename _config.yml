@@ -7,14 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Harvard DtAK Lab"
+title                    : "InTouch"
 title_separator          : "-"
-name                     : &name "Harvard DtAK Lab"
+name                     : &name "InTouch"
 description              : &description "Harvard's Data to Actionable Knowledge Lab"
-url                      : https://dtak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yanivyacoby.github.io/intouch/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dtak/dtak.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,14 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Harvard DtAK Lab"
+  name             : "InTouch"
   avatar           : "profile.png"
-  bio              : "Harvard's Data to Actionable Knowledge lab, led by Prof. Finale Doshi-Velez."
+  bio              : "A SEAS Peer-to-Peer Support Network, for Grad Students, by Grad Students"
   location         : "Cambridge, MA"
-  googlescholar    : "https://scholar.google.com/citations?user=hwQtFB0AAAAJ&hl=en&oi=sra"
   email            :
-  youtube          : "https://www.youtube.com/channel/UCWH9Gmcp0NKKmv9J3jAANJw"
-  github           : "dtak"
 
 
 # Reading Files
