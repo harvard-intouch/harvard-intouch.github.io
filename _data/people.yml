@@ -31,6 +31,13 @@
    
 - section: "Affiliated Faculty and Admin"
   members:
+    - name: Finale Doshi-Velez
+      title: Professor
+      site: https://finale.seas.harvard.edu/
+      image: /images/people/finale-doshi.png
+      email: finale@seas.harvard.edu 
+      blurb: |-
+        TODO.  
     - name: John Girash
       title: Director of Graduate Education
       site: 
@@ -38,13 +45,3 @@
       email: jgirash@seas.harvard.edu 
       blurb: |-
         TODO.
-    - name: Finale Doshi-Velez
-      title: Professor
-      site: https://finale.seas.harvard.edu/
-      image: /images/people/finale-doshi.png
-      email: finale@seas.harvard.edu 
-      blurb: |-
-        TODO.
- 
-- section: "Former Members"
-  members:
