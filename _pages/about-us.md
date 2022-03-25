@@ -26,3 +26,11 @@ Our mission is to create a student culture at SEAS that prioritizes student well
 **One-on-one chats:** We meet with anyone who wants to discuss a specific or personal topic in detail. Our conversations are always private and discrete. 
 
 
+There are certain issues we are **not** trained to help with; for example,
+* We cannot provide a medical perspective or psychotherapy
+* We cannot provide mental health counseling
+* However, we can talk through issues and connect you with additional resources.
+
+Our **obligation** is to keep all chats are **private and discreet**. That is, we will not share any details of our conversations with faculty or administrative staff unless you request otherwise. There are a **few exceptions**:
+* Our faculty advisor will be notified of extenuating circumstances if we perceive threat of harm to self or others.
+* Issues of sexual harrasment must be reported, as required by Title IX.
