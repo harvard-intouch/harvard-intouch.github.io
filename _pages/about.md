@@ -4,8 +4,8 @@ title: "InTouch"
 excerpt: "About InTouch"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 We are here to help navigate the journey through graduate school.
