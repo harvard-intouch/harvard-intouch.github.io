@@ -18,7 +18,7 @@ Examples of frequently encountered obstacles:
 * My advisor seems dissatisfied with me and I can't figure out why
 * I am not sure I want to stay in my current area of research -- how can I make a switch?
 * I don't feel like I belong at Harvard
-
+* I am having trouble in my relationship with my significant other
 
 ## How to find us
 
