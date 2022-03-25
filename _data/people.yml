@@ -28,6 +28,16 @@
       image: /images/people/lily-xu.png
       blurb: |-
         Hi! My name is Lily Xu and I am a PhD student studying computer science, advised by Prof. Milind Tambe. My work is on AI for conservation, applying machine learning and game theory to wildlife conservation. I love spending time in the outdoors, dancing, cooking, and riding my bike around Camberville. 
-    
+   
+- section: "Affiliated Faculty and Admin"
+  members:
+    - name: John Girash
+      title: Director of Graduate Education
+      site: 
+      image: /images/people/john-girash.png
+      email: jgirash@seas.harvard.edu 
+      blurb: |-
+        TODO.
+ 
 - section: "Former Members"
   members:
