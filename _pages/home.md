@@ -8,23 +8,18 @@ redirect_from:
   - /home.html
 ---
 
-We are here to help navigate the journey through graduate school.
-Our number one goal is to build community between SEAS students.
+We are here to help navigate the journey through graduate school and to build community between SEAS graduate students.
 We are trained to listen, brainstorm, and direct you to helpful resources within and outside Harvard.
 
-Examples of Frequently Encountered Obstacles:
+Examples of frequently encountered obstacles:
 * Academics, advisor relationships, research, etc.
 * Personal conflicts with friends, significant others, etc.
 * Maintaining balance, mental health, and general well-being
 
-There are certain issues we are not trained to help with; for example,
-* We cannot provide a medical perspective or psychotherapy
-* We cannot provide mental health counseling
+## How to find us
 
-However, we **can** talk through issues and connect you with additional resources.
+**Coffee after lunch:**: Join us for our biweekly **free**, fresh coffee and snacks.
+Locations alternate between the Allston and Cambridge campuses. 
+Look for our emails on the gradsdirect mailing list.
 
-Our obligations to keep things **anonymous** and **confidential** are:
-* All chats are private and discreet. We will not share any details of our conversations with faculty or administrative staff unless you request otherwise. There are a few exceptions:
-* Our faculty advisor will be notified of extenuating circumstances if we perceive threat of harm to self or others.
-* Issues of sexual harrasment must be reported, as required by Title IX.
-
+**Contact a peer:** Want to set up a time to talk? Email any of us [student peers](/peers).
