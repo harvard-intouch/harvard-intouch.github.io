@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "InTouch"
 title_separator          : "-"
 name                     : &name "InTouch"
-description              : &description "Harvard's Data to Actionable Knowledge Lab"
+description              : ""
 url                      : https://yanivyacoby.github.io/intouch # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 breadcrumbs              : false # true, false (default)
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "InTouch"
   avatar           : "profile.png"
-  bio              : "A SEAS Peer-to-Peer Support Network, for Grad Students, by Grad Students"
-  location         : "Cambridge, MA"
+  bio              : "A SEAS peer-to-peer support network, for grad students, by grad students"
+  location         : "Harvard University John A. Paulson School of Engineering and Applied Sciences"
   email            :
 
 
