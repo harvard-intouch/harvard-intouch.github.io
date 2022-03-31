@@ -22,7 +22,7 @@ Examples of frequently encountered obstacles:
 
 ## How to find us
 
-**Coffee after lunch:**: Join us for our biweekly **free**, fresh coffee and snacks.
+**Coffee after lunch:** Join us for our biweekly **free**, fresh coffee and snacks.
 Locations alternate between the Allston and Cambridge campuses. 
 Look for our emails on the gradsdirect mailing list.
 
