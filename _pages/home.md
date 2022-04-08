@@ -24,6 +24,7 @@ Examples of frequently encountered obstacles:
 
 **Coffee after lunch:** Join us for our biweekly **free**, fresh coffee and snacks.
 Locations alternate between the Allston and Cambridge campuses. 
-Look for our emails on the gradsdirect mailing list.
+These events are listed on our [calendar](/calendar).
+Alternatively, you can look for our emails on the `gradsdirect` mailing list.
 
 **Contact a peer:** Want to set up a time to talk? Email any of us [student peers](/peers).
