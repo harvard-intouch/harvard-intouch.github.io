@@ -11,7 +11,7 @@ title                    : "InTouch"
 title_separator          : "-"
 name                     : &name "InTouch"
 description              : ""
-url                      : https://yanivyacoby.github.io/intouch # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://harvard-intouch.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
