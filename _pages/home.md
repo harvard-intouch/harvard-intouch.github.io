@@ -26,4 +26,4 @@ Examples of frequently encountered obstacles:
 Locations alternate between the Allston and Cambridge campuses. 
 Look for our emails on the gradsdirect mailing list.
 
-**Contact a peer:** Want to set up a time to talk? Email any of us [student peers](/intouch/peers).
+**Contact a peer:** Want to set up a time to talk? Email any of us [student peers](/peers).
