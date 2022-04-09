@@ -11,7 +11,7 @@ redirect_from:
 We are here to help navigate the journey through graduate school and to build community between SEAS graduate students.
 We are trained to listen, brainstorm, and direct you to helpful resources within and outside Harvard.
 
-Examples of frequently encountered obstacles:
+Examples of frequently encountered obstacles include:
 * "I feel like everyone around me is doing better than me."
 * "I am struggling to balance classes and research / work and life."
 * "My labmates don't come in often, I am pretty isolated most days."
