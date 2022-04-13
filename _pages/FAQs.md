@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "FAQs"
-permalink: /FAQs/
+permalink: /faqs/
 ---
 
 ## What is the purpose of InTouch Coffee Hours?
