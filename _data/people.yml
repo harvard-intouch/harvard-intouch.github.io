@@ -29,12 +29,12 @@
       blurb: |-
         Hi! My name is Lily Xu and I am a PhD student studying computer science, advised by Prof. Milind Tambe. My work is on AI for conservation, applying machine learning and game theory to wildlife conservation. I love spending time in the outdoors, dancing, cooking, and riding my bike around Camberville. 
     - name: Bahareh Tolooshams
-      title: G5, CS
+      title: G5, EE
       site: https://btolooshams.github.io/
-      email: btolooshams@g.harvard.edu 
+      email: btolooshams@seas.harvard.edu
       image: /images/people/bahareh-tolooshams.png
       blurb: |-
-        Hello! This is Bahareh. I am a G5 PhD student in Electrical Engineering working with Prof. Demba Ba. I do machine learning research and am interested in developing and analyzing efficient, interpretable, and robust learning algorithms for applications in vision and computational neuroscience. I am happy to chat about anything ranging from work-life balance and a healthy lifestyle to how to build constructive relationships with your advisor. I am here to build a community and like talking to people. I love coffee, reading books, and biking.
+        Hello! This is Bahareh. I am a G5 PhD student in Electrical Engineering working with Prof. Demba Ba. I do machine learning research and am interested in developing and analyzing efficient, interpretable, and robust learning algorithms for applications in vision and computational neuroscience. I am happy to chat about anything ranging from work-life balance and mental health to how to build constructive relationships with your advisor. I am here to build a community and like talking to people. I love coffee, reading books, and biking.
    
 - section: "Affiliated Faculty and Admin"
   members:
