@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About us"
+title: "About Us"
 permalink: /about-us/
 ---
 
