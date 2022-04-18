@@ -11,7 +11,7 @@ Our coffee chats are for building community across all of SEAS, and in this sens
 
 ## How does InTouch interact with other support services across Harvard?
 
-As a student-led organization, we are a bridge between students and the vast network of resources available at Harvard. Sometimes, you might not know where to start, precisely because there are so many different resources publicizes. Or there may be unspoken rules about specific processes that are not written down anywhere. We help you filter through the possibilities, offer shortcuts that we've learned the hard way, and guide you as on your path to achieving success. We also meet with SEAS administrators on a regular basis to raise concerns and advocate for students' well-being.  
+As a student-led organization, we are a bridge between students and the vast network of resources available at Harvard. Sometimes, you might not know where to start, precisely because there are so many different resources that are publicized. Or there may be unspoken rules about specific processes that are not written down anywhere (this is unfortunately often the case in academia). We help you filter through the possibilities, offer shortcuts that we've learned the hard way, and guide you on your own path to success. We also meet with SEAS administrators on a regular basis to raise concerns and advocate for students' well-being.  
 
 ## Is my problem too small, too big, or too ambiguous to bring to InTouch? 
 
