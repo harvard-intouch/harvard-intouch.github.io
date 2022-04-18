@@ -19,7 +19,7 @@ No! We are happy to talk about anything that's on your mind, regardless of how "
 
 ## What do InTouch peers offer that I can't get from other people or organizations?
 
-We are peers who share similar contexts as you.we're non-judgmental, private, and discreet. We are an entirely student-led organization and have students' best interests in mind. 
+We are peers who share similar contexts as you. We're non-judgmental, private, and discreet. We are an entirely student-led organization and have students' best interests in mind. 
 <br/>
 
 _Thanks to [MIT's archREFS](https://www.archrefs.mit.edu/faq) for inspiration for our FAQs._
