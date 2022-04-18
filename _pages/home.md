@@ -20,6 +20,8 @@ Examples of frequently encountered obstacles include:
 * "I don't feel like I belong at Harvard."
 * "I am having trouble in my relationship with my significant other."
 
+Learn more about us [here](/about-us).
+
 ## How to find us
 
 **Coffee after lunch:** Join us for our biweekly **free**, fresh coffee and snacks.
@@ -27,4 +29,4 @@ Locations alternate between the Allston and Cambridge campuses.
 These events are listed on our [calendar](/calendar).
 Alternatively, you can look for our emails on the `gradsdirect` mailing list.
 
-**Contact a peer:** Want to set up a time to talk? Email any of us [student peers](/peers).
+**Contact a peer:** Want to set up a time to talk? Email any of us [peers](/peers).
