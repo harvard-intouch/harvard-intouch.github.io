@@ -18,3 +18,7 @@ No! We are happy to talk about anything that's on your mind, regardless of how "
 
 ## What do InTouch peers offer that I can't get from other people or organizations?
 
+
+<br/>
+
+_Thanks to [MIT's archREFS](https://www.archrefs.mit.edu/faq) for inspiration._
