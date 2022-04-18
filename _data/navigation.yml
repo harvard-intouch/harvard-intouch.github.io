@@ -4,7 +4,7 @@ main:
   - title: "Home"
     url: /home/ 
     
-  - title: "About Us"
+  - title: "About us"
     url: /about-us/  
     
   - title: "Peers"
