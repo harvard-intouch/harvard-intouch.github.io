@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "FAQs"
+title: "Frequently Asked Questions"
 permalink: /faqs/
 ---
 
@@ -21,4 +21,4 @@ No! We are happy to talk about anything that's on your mind, regardless of how "
 
 <br/>
 
-_Thanks to [MIT's archREFS](https://www.archrefs.mit.edu/faq) for inspiration._
+_Thanks to [MIT's archREFS](https://www.archrefs.mit.edu/faq) for inspiration for our FAQs._
