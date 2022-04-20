@@ -5,11 +5,10 @@ permalink: /peers/
 ---
 
 InTouch peers are purposfully spread throughout the departments and buildings of SEAS, and encourage you to start up a casual conversation. 
-At InTouch, we have two types of peers: peer mentors and peer staffers.
+At InTouch, we have two types of peers: 
+* <strong>Peer mentors</strong> are trained in informal mentoring and conflict management and are knowledgeable about resources within and outside of Harvard. 
+* <strong>Peer staffers</strong> are in charge of community building and organizing. 
 
-<strong>Peer mentors</strong> are trained in informal mentoring and conflict management and are knowledgeable about resources within and outside of Harvard. 
-
-<strong>Peer staffers</strong> are in charge of community building and organizing. 
 For one-on-one chats, please reach out to the peer mentors at any time (by email or at the coffee chats) to say hello and introduce yourself (you never need a reason). 
 
 
