@@ -1,4 +1,5 @@
 - section: "Peer Mentors"
+  description: InTouch peers mentors are purposfully spread throughout the departments and buildings of SEAS, and encourage you to start up a casual conversation. We are trained in informal mentoring and conflict management and are knowledgeable about resources within and outside of Harvard. Feel free to say hello and introduce yourself any time (you never need a reason). In particular, feel free to email any one of us and join our regular bi-weekly coffee after lunch.
   members:
     - name: John Ahrens
       title: G6, BioE
@@ -37,6 +38,7 @@
         Hello! This is Bahareh. I am a G5 PhD student in Electrical Engineering working with Prof. Demba Ba. I do machine learning research and am interested in developing and analyzing efficient, interpretable, and robust learning algorithms for applications in vision and computational neuroscience. I am happy to chat about anything ranging from work-life balance and mental health to how to build constructive relationships with your advisor. I am here to build a community and like talking to people. I love coffee, reading books, and biking.
 
 - section: "Peer Staffers"
+  description: 
   members:
     - name: Sohini Upadhyay
       title: G2, CS
@@ -47,6 +49,7 @@
         Hi! My name is Sohini and I am a Computer Science PhD student advised by Krzysztof Gajos. My research spans HCI, tech policy, and AI interpretability. Outside of research, I am a HGSU steward. My hobbies include hiking, skiing, and watching too much reality TV.
    
 - section: "Affiliated Faculty and Admin"
+  description: 
   members:
     - name: Finale Doshi-Velez
       title: Professor of Computer Science
