@@ -29,4 +29,4 @@ Locations alternate between the Allston and Cambridge campuses.
 These events are listed on our [calendar](/calendar).
 Alternatively, you can look for our emails on the `gradsdirect` mailing list.
 
-**Contact a peer:** Want to set up a time to talk? Email any of us [peers](/peers).
+**Contact a peer mentor:** Want to set up a time to talk? Email any of us [peers mentors](/peers).
