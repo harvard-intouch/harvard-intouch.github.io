@@ -35,6 +35,13 @@
       image: /images/people/bahareh-tolooshams.png
       blurb: |-
         Hello! This is Bahareh. I am a G5 PhD student in Electrical Engineering working with Prof. Demba Ba. I do machine learning research and am interested in developing and analyzing efficient, interpretable, and robust learning algorithms for applications in vision and computational neuroscience. I am happy to chat about anything ranging from work-life balance and mental health to how to build constructive relationships with your advisor. I am here to build a community and like talking to people. I love coffee, reading books, and biking.
+- name: Sohini Upadhyay
+      title: G2, CS
+      site: 
+      email: supadhyay@g.harvard.edu
+      image: /images/people/sohini-upadhyay.png
+      blurb: |-
+        Hi! My name is Sohini and I’m a Computer Science PhD student advised by Krzysztof Gajos. My research spans HCI, tech policy, and AI interpretability. Outside of research, I am a HGSU steward. My hobbies include hiking, skiing, and watching too much reality TV.
    
 - section: "Affiliated Faculty and Admin"
   members:
