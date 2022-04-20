@@ -4,14 +4,10 @@ title: "Peers"
 permalink: /peers/
 ---
 
-InTouch Peers are purposfully spread throughout the departments and buildings of SEAS, and encourage you to start up a casual conversation.
-We are trained in informal mentoring and conflict management and are knowledgeable about resources within and outside of Harvard.
-Feel free to say hello and introduce yourself any time (you never need a reason).
-In particular, feel free to email any one of us and join our regular bi-weekly coffee after lunch. 
-
-
 {% for s in site.data.people %}
   <h2>{{ s.section }}</h2>
+
+  <div>s.description</div>
 
   <div class='people'>
     {% for p in s.members %}
