@@ -1,4 +1,4 @@
-- section: "Current Members"
+- section: "Peer Mentors"
   members:
     - name: John Ahrens
       title: G6, BioE
@@ -35,7 +35,10 @@
       image: /images/people/bahareh-tolooshams.png
       blurb: |-
         Hello! This is Bahareh. I am a G5 PhD student in Electrical Engineering working with Prof. Demba Ba. I do machine learning research and am interested in developing and analyzing efficient, interpretable, and robust learning algorithms for applications in vision and computational neuroscience. I am happy to chat about anything ranging from work-life balance and mental health to how to build constructive relationships with your advisor. I am here to build a community and like talking to people. I love coffee, reading books, and biking.
-- name: Sohini Upadhyay
+
+- section: "Peer Staffers"
+  members:
+    - name: Sohini Upadhyay
       title: G2, CS
       site: 
       email: supadhyay@g.harvard.edu
