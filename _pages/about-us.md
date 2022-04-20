@@ -23,13 +23,12 @@ Our mission is to create a student culture at SEAS that prioritizes student well
 
 **Biweekly Coffee Chat:** A safe space (with free food and coffee) for graduate students across SEAS to develop a broader sense of community, share in the highs and the lows, and to ask for advice from InTouch peers and/or fellow students. 
 
-**One-on-one chats:** We ("[peer mentors](/peers)") meet with anyone who wants to discuss a specific or personal topic in detail. Our conversations are always private and discrete. 
+**One-on-one chats:** We ("[peer mentors](/peers)") meet with anyone who wants to discuss a specific or personal topic in detail. 
 
-
-There are certain issues we are **not** trained to help with; for example,
+There are certain issues we are **not** trained to help with. For example,
 * We cannot provide a medical perspective or psychotherapy
 * We cannot provide mental health counseling
-* However, we can talk through issues and connect you with additional resources.
+However, we can talk through issues and connect you with additional resources.
 
 Our **obligation** is to keep all chats are **private and discreet**. That is, we will not share any details of our conversations with faculty or administrative staff unless you request otherwise. There are a **few exceptions**:
 * Our faculty advisor will be notified of extenuating circumstances if we perceive threat of harm to self or others.
