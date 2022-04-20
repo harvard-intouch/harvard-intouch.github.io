@@ -26,8 +26,8 @@ Our mission is to create a student culture at SEAS that prioritizes student well
 **One-on-one chats:** We ("[peer mentors](/peers)") meet with anyone who wants to discuss a specific or personal topic in detail. 
 
 There are certain issues we are **not** trained to help with. For example,
-* We cannot provide a medical perspective or psychotherapy
-* We cannot provide mental health counseling
+* We cannot provide a medical perspective or psychotherapy.
+* We cannot provide mental health counseling.
 
 However, we can talk through issues and connect you with additional resources.
 
