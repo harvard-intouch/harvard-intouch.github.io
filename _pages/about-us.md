@@ -28,6 +28,7 @@ Our mission is to create a student culture at SEAS that prioritizes student well
 There are certain issues we are **not** trained to help with. For example,
 * We cannot provide a medical perspective or psychotherapy
 * We cannot provide mental health counseling
+
 However, we can talk through issues and connect you with additional resources.
 
 Our **obligation** is to keep all chats are **private and discreet**. That is, we will not share any details of our conversations with faculty or administrative staff unless you request otherwise. There are a **few exceptions**:
