@@ -3,6 +3,7 @@
   members:
     - name: John Ahrens
       title: G6, BioE
+      pronouns: 
       site: 
       image: /images/people/john-ahrens.png
       email: ahrensj@g.harvard.edu
@@ -10,6 +11,7 @@
         Hi, my name is John Ahrens and I work in the Jennifer Lewis lab. Reach out to me anytime. I often talk with students about work-life balance, setting expectations for your work, how to get/stay organized, advisor relationships, outdoor activities throughout New England (surfing, hiking, camping, basketball).
     - name: Larissa Zhou
       title: G4, MechE
+      pronouns: she/hers
       site: https://larissazhou.github.io/
       email: zhou6@fas.harvard.edu
       image: /images/people/larissa-zhou.png
@@ -17,6 +19,7 @@
         Hello! I am Larissa Zhou. I am a G4 in Mechanical Engineering & Materials Science, advised by Prof. Dave Weitz. I work on quantifying food texture and building devices for cooking in space. I worked as a food scientist for 7 years between undergrad and grad school. I am happy to talk about adjusting to grad school after being out of academia for a while, burnout, the Harvard bubble, working alone, finding mentors, feeling stupid, figuring out who you want to be when you grow up...I love to climb and to eat Chinese food. 	
     - name: Yaniv Yacoby
       title: G5, CS
+      pronouns: he/him
       site: https://yanivyacoby.github.io/
       email: yanivyacoby@g.harvard.edu
       image: /images/people/yaniv-yacoby.png
@@ -24,6 +27,7 @@
         Hello! My name is Yaniv and I am a PhD student working with Prof. Finale Doshi-Velez. I work on developing machine learning methodology for safety-critical domains such as healthcare. I love music, reality TV, gummy candy, cycling, and cats. I am happy to brainstorm how to improve advising relationships, building a supportive community, mental health, imposter phenomenon, setting healthy expectations, work-life balance, etc. Feel free to reach out!
     - name: Lily Xu
       title: G4, CS
+      pronouns: she/her, they/them
       site: https://lily-x.github.io/
       email: lily_xu@g.harvard.edu 
       image: /images/people/lily-xu.png
@@ -31,6 +35,7 @@
         Hi! My name is Lily Xu and I am a PhD student studying computer science, advised by Prof. Milind Tambe. My work is on AI for conservation, applying machine learning and game theory to wildlife conservation. I love spending time in the outdoors, dancing, cooking, and riding my bike around Camberville. 
     - name: Bahareh Tolooshams
       title: G5, EE
+      pronouns:
       site: https://btolooshams.github.io/
       email: btolooshams@seas.harvard.edu
       image: /images/people/bahareh-tolooshams.png
@@ -42,6 +47,7 @@
   members:
     - name: Sohini Upadhyay
       title: G2, CS
+      pronouns: she/her
       site: 
       email: supadhyay@g.harvard.edu
       image: /images/people/sohini-upadhyay.png
@@ -49,6 +55,7 @@
         Hi! My name is Sohini and I am a Computer Science PhD student advised by Krzysztof Gajos. My research spans HCI, tech policy, and AI interpretability. Outside of research, I am a HGSU steward. My hobbies include hiking, skiing, and watching too much reality TV.
     - name: James Larisch
       title: G5, CS
+      pronouns: he/him
       site: https://jameslarisch.com/
       email: jameslarisch@g.harvard.edu 
       image: /images/people/james-larisch.png
@@ -60,6 +67,7 @@
   members:
     - name: Finale Doshi-Velez
       title: Professor of Computer Science
+      pronouns: she/her
       site: https://finale.seas.harvard.edu/
       image: /images/people/finale-doshi.png
       email: finale@seas.harvard.edu 
@@ -67,6 +75,7 @@
         Finale has a certification in mediation, played a similar role as a peer while a REF at MIT, and is excited to support the next generation of peer support groups.  
     - name: John Girash
       title: Director of Graduate Education
+      pronouns: he/him
       site: https://scholar.harvard.edu/girash/home
       image: /images/people/john-girash.png
       email: jgirash@seas.harvard.edu 
