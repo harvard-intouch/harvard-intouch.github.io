@@ -34,6 +34,9 @@ For one-on-one chats, please reach out to the peer mentors at any time (by email
             {{ p.name }}
           {% endif %}
         </div>
+        {% if p.pronouns %}
+        <div class='person__title'>{{ p.pronouns }}</div>
+        {% endif %}
         <div class='person__title'>{{ p.title }}</div>
         <div class='person__title'>{{ p.email }}</div>
       </div>
