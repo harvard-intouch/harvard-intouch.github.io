@@ -47,6 +47,13 @@
       image: /images/people/sohini-upadhyay.png
       blurb: |-
         Hi! My name is Sohini and I am a Computer Science PhD student advised by Krzysztof Gajos. My research spans HCI, tech policy, and AI interpretability. Outside of research, I am a HGSU steward. My hobbies include hiking, skiing, and watching too much reality TV.
+    - name: James Larisch
+      title: G5, CS
+      site: https://jameslarisch.com/
+      email: jameslarisch@g.harvard.edu 
+      image: /images/people/james-larisch.png
+      blurb: |-
+        James is a human and a PhD student. He enjoys deep conversations and laughing.
    
 - section: "Affiliated Faculty and Admin"
   description: 
