@@ -41,6 +41,15 @@
       image: /images/people/bahareh-tolooshams.png
       blurb: |-
         Hello! This is Bahareh. I am a G5 PhD student in Electrical Engineering working with Prof. Demba Ba. I do machine learning research and am interested in developing and analyzing efficient, interpretable, and robust learning algorithms for applications in vision and computational neuroscience. I am happy to chat about anything ranging from work-life balance and mental health to how to build constructive relationships with your advisor. I am here to build a community and like talking to people. I love coffee, reading books, and biking.
+    - name: Talha Rehman
+      title: G1, AP
+      pronouns: he/him
+      site: 
+      email: talha@g.harvard.edu
+      image: /images/people/talha-rehman.png
+      blurb: |-
+        I am a PhD student in the Applied Physics program at Harvard University, currently doing rotations. I joined InTouch to support my peers through the ups AND the downs of life as a graduate student. I also serve as the treasurer of the School Of Engineering And Applied Sciences (SEAS) Graduate Council, and a residential advisor for Child Hall.
+
 
 - section: "Peer Staffers"
   description: 
