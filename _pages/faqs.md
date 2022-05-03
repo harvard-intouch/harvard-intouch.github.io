@@ -6,7 +6,7 @@ permalink: /faqs/
 
 ## What are InTouch Coffee Hours for?
 
-Our [coffee chats](https://intouch.seas.harvard.edu/calendar/) are for building community across all of SEAS, and in this sense they're similar to department or lab happy hours, except that you'll meet students from all across SEAS. We also host coffee chats as a dedicated place where you can seek advice on life as a graduate student. For exampe, G1s ask about what is a reasonable course load, G4s ask senior graduate students about how to talk about graduating with their advisors, etc. We share tips on finding off-campus housing and saving money on rental cars (do you know about the [Harvard corporate discount codes](https://campustravel.com/university/harvard-university/employee-discounts/)?). It's a place for identifying, normalizing, and helping each other through the ups **and** the downs of life as a graduate student.
+Our [coffee chats](https://intouch.seas.harvard.edu/calendar/) are for building community across all of SEAS, and in this sense they're similar to department or lab happy hours, except that you'll meet students from all across SEAS. We also host coffee chats as a dedicated place where you can seek advice on life as a graduate student. For exampe, G1s ask about what is a reasonable course load, G4s ask senior graduate students about how to talk about graduating with their advisors, etc. We share tips on finding off-campus housing and saving money on rental cars (do you know about the [Harvard corporate discount codes](https://campustravel.com/university/harvard-university/employee-discounts/)?). It's a place for identifying, normalizing, and helping each other through the ups **and** the downs of life as a graduate student. If you prefer to chat privately, email us!  
 
 ## How does InTouch interact with other support services across Harvard?
 
@@ -19,6 +19,9 @@ No! We are happy to talk about anything that's on your mind, regardless of how "
 ## What do InTouch peers offer that I can't get from other people or organizations?
 
 We are peers who share similar contexts as you. We're non-judgmental, private, and discreet. We are an entirely student-led organization and have students' best interests in mind. 
+
+## What does InTouch do beside coffee hours and private chats?
+We have a subcommittee collaborating with SEAS-GC and the admin to make transitional funding more widely available to students considering switching advisors. We are planning a Fall 2023 panel on the topic of the G3 blues in collaborating with the [ARC](https://academicresourcecenter.harvard.edu/graduate-students). We have so many other ideas, and we need YOU to join us to change the culture in grad school!
 <br/>
 
 _Thanks to [MIT's archREFS](https://www.archrefs.mit.edu/faq) for inspiration for our FAQs._
