@@ -1,14 +1,6 @@
 - section: "Peer Mentors"
   description: 
   members:
-    - name: John Ahrens
-      title: G6, BioE
-      pronouns: 
-      site: 
-      image: /images/people/john-ahrens.png
-      email: ahrensj@g.harvard.edu
-      blurb: |-
-        Hi, my name is John Ahrens and I work in the Jennifer Lewis lab. Reach out to me anytime. I often talk with students about work-life balance, setting expectations for your work, how to get/stay organized, advisor relationships, outdoor activities throughout New England (surfing, hiking, camping, basketball).
     - name: Larissa Zhou
       title: G4, MechE
       pronouns: she/hers
@@ -35,7 +27,7 @@
         Hi! My name is Lily Xu and I am a PhD student studying computer science, advised by Prof. Milind Tambe. My work is on AI for conservation, applying machine learning and game theory to wildlife conservation. I love spending time in the outdoors, dancing, cooking, and riding my bike around Camberville. 
     - name: Bahareh Tolooshams
       title: G5, EE
-      pronouns:
+      pronouns: she/they
       site: https://btolooshams.github.io/
       email: btolooshams@seas.harvard.edu
       image: /images/people/bahareh-tolooshams.png
@@ -49,7 +41,14 @@
       image: /images/people/talha-rehman.png
       blurb: |-
         I am a PhD student in the Applied Physics program at Harvard University, currently doing rotations. I joined InTouch to support my peers through the ups AND the downs of life as a graduate student. I also serve as the treasurer of the School Of Engineering And Applied Sciences (SEAS) Graduate Council, and a residential advisor for Child Hall.
-
+    - name: John Ahrens
+      title: G6, BioE
+      pronouns: 
+      site: 
+      image: /images/people/john-ahrens.png
+      email: ahrensj@g.harvard.edu
+      blurb: |-
+        Hi, my name is John Ahrens and I work in the Jennifer Lewis lab. Reach out to me anytime. I often talk with students about work-life balance, setting expectations for your work, how to get/stay organized, advisor relationships, outdoor activities throughout New England (surfing, hiking, camping, basketball).
 
 - section: "Peer Staffers"
   description: 
