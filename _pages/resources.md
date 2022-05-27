@@ -23,13 +23,13 @@ InTouch is here to help navigate these different options so ping us if you'd lik
   * [How to make the most out of your PhD: A guide from current to incoming students](https://yanivyacoby.github.io/a-guide-to-your-phd/guide.html)
   * [James Larisch: Highly Opinionated Advice for (CS) PhD Happiness](https://jameslarisch.com/phd-happiness)
 * Beyond the PhD:
-  * [The Jobs I Didn't See: My Misconceptions of the Academic Job Market | by Evan Peck] (https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422)
-  * [Why it is not a ‘failure’ to leave academia] (https://www.nature.com/articles/d41586-018-05838-y)
-* Underrepresented and/or Minoritized Identities 
-  * [“I Know I Have to Work Twice as Hard and Hope That Makes Me Good Enough”: Exploring the Stress and Strain of Black Doctoral Students in Engineering and Computing] (https://vanderbilt.app.box.com/s/fs7j3c4m7l8mkprmqywrzds0iwuizi9k)
-  * [“Black Genius, Asian Fail”: The Detriment of Stereotype Lift and Stereotype Threat in High-Achieving Asian and Black STEM Students - Ebony McGee, 2018" (https://journals.sagepub.com/doi/full/10.1177/2332858418816658)
-  * ["Programmer privilege: As an Asian male computer science major, everyone gave me the benefit of the doubt."] (https://slate.com/technology/2014/01/programmer-privilege-as-an-asian-male-computer-science-major-everyone-gave-me-the-benefit-of-the-doubt.html)
-  * ["The Disappeared: Beyond Winning and Losing"] (https://www.computer.org/csdl/magazine/co/2018/10/mco2018100066/17D45WXIkDI) 
+  * [The Jobs I Didn't See: My Misconceptions of the Academic Job Market | by Evan Peck](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422)
+  * [Why it is not a ‘failure’ to leave academia](https://www.nature.com/articles/d41586-018-05838-y)
+* Underrepresented and/or Minoritized Identities:
+  * [“I Know I Have to Work Twice as Hard and Hope That Makes Me Good Enough”: Exploring the Stress and Strain of Black Doctoral Students in Engineering and Computing](https://vanderbilt.app.box.com/s/fs7j3c4m7l8mkprmqywrzds0iwuizi9k)
+  * [“Black Genius, Asian Fail”: The Detriment of Stereotype Lift and Stereotype Threat in High-Achieving Asian and Black STEM Students - Ebony McGee, 2018"(https://journals.sagepub.com/doi/full/10.1177/2332858418816658)
+  * ["Programmer privilege: As an Asian male computer science major, everyone gave me the benefit of the doubt."](https://slate.com/technology/2014/01/programmer-privilege-as-an-asian-male-computer-science-major-everyone-gave-me-the-benefit-of-the-doubt.html)
+  * ["The Disappeared: Beyond Winning and Losing"](https://www.computer.org/csdl/magazine/co/2018/10/mco2018100066/17D45WXIkDI) 
 
 ## Academic Resource Center (ARC)
 
