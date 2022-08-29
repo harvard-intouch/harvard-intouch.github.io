@@ -31,9 +31,10 @@ InTouch is here to help navigate these different options so ping us if you'd lik
   * [Ebony McGee: “Black Genius, Asian Fail”: The Detriment of Stereotype Lift and Stereotype Threat in High-Achieving Asian and Black STEM Students](https://journals.sagepub.com/doi/full/10.1177/2332858418816658)
   * [Philip Guo: Programmer privilege: As an Asian male computer science major, everyone gave me the benefit of the doubt.](https://slate.com/technology/2014/01/programmer-privilege-as-an-asian-male-computer-science-major-everyone-gave-me-the-benefit-of-the-doubt.html)
   * [Lynn Conway: "The Disappeared: Beyond Winning and Losing"](https://www.computer.org/csdl/magazine/co/2018/10/mco2018100066/17D45WXIkDI) 
-* Helpful reading lists:
+* Helpful reading lists and survey papers:
   * [Reading List: IACS's Seminar on Diversity, Inclusion and Leadership in Tech](https://onefishy.github.io/DIL_in_tech/reading_list.html)
-  * [Reading List: CS290: PhD Grad Cohort Research Seminar](https://yanivyacoby.github.io/harvard-cs290//materials/)
+  * [Reading List: CS290: Seminar on Effective Research Practices and Academic Culture](https://yanivyacoby.github.io/harvard-cs290//materials/)
+  * [The Ph.D. Experience: A review of the factors influencing doctoral students’ completion, achievement, and well-being](http://ijds.org/Volume13/IJDSv13p361-388Sverdlik4134.pdf)
 
 ## Academic Resource Center (ARC)
 
