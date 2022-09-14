@@ -2,7 +2,7 @@
   description: 
   members:
     - name: Larissa Zhou
-      title: G4, MechE
+      title: G5, MechE
       pronouns: she/hers
       site: https://larissazhou.github.io/
       email: zhou6@fas.harvard.edu
@@ -10,7 +10,7 @@
       blurb: |-
         Hello! I am Larissa Zhou. I am a G4 in Mechanical Engineering & Materials Science, advised by Prof. Dave Weitz. I work on quantifying food texture and building devices for cooking in space. I worked as a food scientist for 7 years between undergrad and grad school. I am happy to talk about adjusting to grad school after being out of academia for a while, burnout, the Harvard bubble, working alone, finding mentors, feeling stupid, figuring out who you want to be when you grow up...I love to climb and to eat Chinese food. 	
     - name: Yaniv Yacoby
-      title: G5, CS
+      title: G6, CS
       pronouns: he/him
       site: https://yanivyacoby.github.io/
       email: yanivyacoby@g.harvard.edu
@@ -18,7 +18,7 @@
       blurb: |-
         Hello! My name is Yaniv and I am a PhD student working with Prof. Finale Doshi-Velez. I work on developing machine learning methodology for safety-critical domains such as healthcare. I love music, reality TV, gummy candy, cycling, and cats. I am happy to brainstorm how to improve advising relationships, building a supportive community, mental health, imposter phenomenon, setting healthy expectations, work-life balance, etc. Feel free to reach out!
     - name: Lily Xu
-      title: G4, CS
+      title: G5, CS
       pronouns: she/her, they/them
       site: https://lily-x.github.io/
       email: lily_xu@g.harvard.edu 
@@ -26,7 +26,7 @@
       blurb: |-
         Hi! My name is Lily Xu and I am a PhD student studying computer science, advised by Prof. Milind Tambe. My work is on AI for conservation, applying machine learning and game theory to wildlife conservation. I love spending time in the outdoors, dancing, cooking, and riding my bike around Camberville. 
     - name: Bahareh Tolooshams
-      title: G5, EE
+      title: G6, EE
       pronouns: she/they
       site: https://btolooshams.github.io/
       email: btolooshams@seas.harvard.edu
@@ -46,7 +46,7 @@
   description: 
   members:
     - name: Sohini Upadhyay
-      title: G2, CS
+      title: G3, CS
       pronouns: she/her
       site: 
       email: supadhyay@g.harvard.edu
@@ -54,7 +54,7 @@
       blurb: |-
         Hi! My name is Sohini and I am a Computer Science PhD student advised by Krzysztof Gajos. My research spans HCI, tech policy, and AI interpretability. Outside of research, I am a HGSU steward. My hobbies include hiking, skiing, and watching too much reality TV.
     - name: James Larisch
-      title: G5, CS
+      title: G6, CS
       pronouns: he/him
       site: https://jameslarisch.com/
       email: jameslarisch@g.harvard.edu 
@@ -62,7 +62,7 @@
       blurb: |-
         James is a human and a PhD student. He enjoys deep conversations and laughing.
     - name: Ramya Deshpande
-      title: G1, BioE
+      title: G2, BioE
       pronouns: she/her
       site: 
       email: rdeshpande@g.harvard.edu
