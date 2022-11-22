@@ -33,8 +33,16 @@
       image: /images/people/bahareh-tolooshams.png
       blurb: |-
         Hello! This is Bahareh. I am a G5 PhD student in Electrical Engineering working with Prof. Demba Ba. I do machine learning research and am interested in developing and analyzing efficient, interpretable, and robust learning algorithms for applications in vision and computational neuroscience. I am happy to chat about anything ranging from work-life balance and mental health to how to build constructive relationships with your advisor. I am here to build a community and like talking to people. I love coffee, reading books, and biking.
+    - name: Ramya Deshpande
+      title: G2, BioE
+      pronouns: she/her
+      site: 
+      email: rdeshpande@g.harvard.edu
+      image: /images/people/ramya-deshpande.png
+      blurb: |-
+        Hi! I am Ramya and I am a PhD student in Bioengineering, advised by Michael Brenner. I am currently working on learning mechanistic models for developmental biology. I like reading, art, dancing and am addicted to TikTok! Feel free to reach out to me about anything - happy to chat about anything from work-life balance to imposter syndrome to coping with anxiety in grad school.        
     - name: Talha Rehman
-      title: G1, AP
+      title: G2, AP
       pronouns: he/him
       site: 
       email: talha@g.harvard.edu
@@ -61,14 +69,6 @@
       image: /images/people/james-larisch.png
       blurb: |-
         James is a human and a PhD student. He enjoys deep conversations and laughing.
-    - name: Ramya Deshpande
-      title: G2, BioE
-      pronouns: she/her
-      site: 
-      email: rdeshpande@g.harvard.edu
-      image: /images/people/ramya-deshpande.png
-      blurb: |-
-        Hi! I am Ramya and I am a PhD student in Bioengineering, advised by Michael Brenner. I am currently working on learning mechanistic models for developmental biology. I like reading, art, dancing and am addicted to TikTok! Feel free to reach out to me about anything - happy to chat about anything from work-life balance to imposter syndrome to coping with anxiety in grad school.
 
 - section: "Affiliated Faculty and Admin"
   description: 
