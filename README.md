@@ -2,7 +2,7 @@
 
 This is the InTouch website, built on top of the [academicpages template](https://github.com/academicpages/academicpages.github.io).
 
-## To update your profile
+## Adding new member profiles
 
 Find and edit your entry in [`_data/people.yml`](./_data/people.yml), which should look something like this:
 
@@ -18,17 +18,13 @@ Find and edit your entry in [`_data/people.yml`](./_data/people.yml), which shou
 
 Personal `image`s should be square, 400 by 400 pixels, and uploaded to the [./images/people](./images/people) directory. Please compress images down using [this compressor](https://imagecompressor.com/) so the site loads quickly.
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## Modifying the website's content
 
-Although you can make the above edits through the Github web interface if you wish, it's better if you can get it running locally on your computer to confirm your changes have the intended effect before committing to master (which will automatically deploy the site). Here are instructions for how to do that:
+The `_pages` directory has all of the pages on InTouch's website. Each one is written using "markdown" -- if you're not familiar with it, markdown is a quick way to format a webpage without needing to know anything about HTML/CSS/JS.
 
-1. Clone the repository and cd into the directory
-1. Make sure you have [ruby](https://www.ruby-lang.org/en/) and [node](https://nodejs.org/en/) installed
-    - On Linux, something like `sudo apt install ruby-dev ruby-bundler nodejs` should work
-    - On Mac, if you've installed [homebrew](https://brew.sh/), `brew install ruby` and `brew install node` should hopefully do the trick (though using a Ruby version manager like [rbenv](https://github.com/rbenv/rbenv) is recommended if slightly more complicated)
-    - Run `gem install bundler` if you've just installed (a new version of) Ruby
-1. Run `bundle install` to install Ruby dependencies.
-1. Run `bundle exec jekyll serve` to generate the HTML and serve it from `localhost:4000`. The local server will automatically rebuild changed pages, though it may take a few seconds and require refreshing.
+## Have my changes worked?
+
+If you go to the "Actions" tab above, you'll see whether your most recent changes are still being deployed, whether they have an error, or whether they've been successfully deployed. 
 
 ## Adding additional pages
 
@@ -52,3 +48,15 @@ If you want this page to appear in the top-level navigation, you can edit [`_dat
 - title: "My New Page"
   url: /mypage/
 ```
+
+## To run locally (not on GitHub Pages, to serve on your own computer)
+
+Although you can make the above edits through the Github web interface if you wish, it's better if you can get it running locally on your computer to confirm your changes have the intended effect before committing to master (which will automatically deploy the site). Here are instructions for how to do that:
+
+1. Clone the repository and cd into the directory
+1. Make sure you have [ruby](https://www.ruby-lang.org/en/) and [node](https://nodejs.org/en/) installed
+    - On Linux, something like `sudo apt install ruby-dev ruby-bundler nodejs` should work
+    - On Mac, if you've installed [homebrew](https://brew.sh/), `brew install ruby` and `brew install node` should hopefully do the trick (though using a Ruby version manager like [rbenv](https://github.com/rbenv/rbenv) is recommended if slightly more complicated)
+    - Run `gem install bundler` if you've just installed (a new version of) Ruby
+1. Run `bundle install` to install Ruby dependencies.
+1. Run `bundle exec jekyll serve` to generate the HTML and serve it from `localhost:4000`. The local server will automatically rebuild changed pages, though it may take a few seconds and require refreshing.
