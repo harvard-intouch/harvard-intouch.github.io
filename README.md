@@ -16,7 +16,7 @@ Find and edit your entry in [`_data/people.yml`](./_data/people.yml), which shou
     (an optional very short description of your work that will appear on hover)
 ```
 
-Personal `image`s should be square, 400 by 400 pixels, and uploaded to the [./images/people](./images/people) directory. Please compress images down using [this compressor](https://imagecompressor.com/) so the site loads quickly.
+Personal `image`s should be square, 400 by 400 pixels, and uploaded to the [./images/people](./images/people) directory. Please compress images down using [this compressor](https://imagecompressor.com/, https://www.resizepixel.com/edit) so the site loads quickly.
 
 ## Modifying the website's content
 
