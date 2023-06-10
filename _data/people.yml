@@ -44,12 +44,19 @@
     - name: Talha Rehman
       title: G2, AP
       pronouns: he/him
-      site: 
+      site: https://www.linkedin.com/in/talharehman/
       email: talha@g.harvard.edu
       image: /images/people/talha-rehman.png
       blurb: |-
-        I am a PhD student in the Applied Physics program at Harvard University, currently doing rotations. I joined InTouch to support my peers through the ups AND the downs of life as a graduate student. I also serve as the treasurer of the School Of Engineering And Applied Sciences (SEAS) Graduate Council, and a residential advisor for Child Hall.
-
+        I am a PhD student in the Applied Physics program at Harvard University, currently doing rotations. I joined InTouch to support my peers through the ups AND the downs of life as a graduate student. I am part of the leadership team of the Harvard Biotech Club, & Harvard Applied Physics Graduate Council. I am also excited to serve in the role of Maker Fellow at the REEF!
+    - name: Alicia Golden
+      title: G2, CS
+      pronouns: she/her
+      site: 
+      email: aliciagolden@g.harvard.edu
+      image: 
+      blurb: |-
+        Hello! My name is Alicia and I am a PhD student in Computer Science, advised by Professors David Brooks and Gu-Yeon Wei. My research focuses on computer architecture, and the design of efficient systems for large-scale ML algorithms. In my free time, I love to run, sing, and travel. Please feel free to reach out!
 - section: "Peer Staffers"
   description: 
   members:
