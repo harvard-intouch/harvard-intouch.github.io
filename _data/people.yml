@@ -1,6 +1,6 @@
 - section: "Peer Mentors"
-  description: 
-  members: 
+  description:
+  members:
     - name: Larissa Zhou
       title: G5, MechE
       pronouns: she/hers
@@ -21,7 +21,7 @@
       title: G5, CS
       pronouns: she/her, they/them
       site: https://lily-x.github.io/
-      email: lily_xu@g.harvard.edu 
+      email: lily_xu@g.harvard.edu
       image: /images/people/lily-xu.png
       blurb: |-
         Hi! My name is Lily Xu and I am a PhD student studying computer science, advised by Prof. Milind Tambe. My work is on AI for conservation, applying machine learning and game theory to wildlife conservation. I love spending time in the outdoors, dancing, cooking, and riding my bike around Camberville. 
@@ -36,7 +36,7 @@
     - name: Ramya Deshpande
       title: G2, BioE
       pronouns: she/her
-      site: 
+      site:
       email: rdeshpande@g.harvard.edu
       image: /images/people/ramya-deshpande.png
       blurb: |-
@@ -52,9 +52,9 @@
     - name: Alicia Golden
       title: G2, CS
       pronouns: she/her
-      site: 
+      site:
       email: aliciagolden@g.harvard.edu
-      image: 
+      image:
       blurb: |-
         Hello! My name is Alicia and I am a PhD student in Computer Science, advised by Professors David Brooks and Gu-Yeon Wei. My research focuses on computer architecture, and the design of efficient systems for large-scale ML algorithms. In my free time, I love to run, sing, and travel. Please feel free to reach out!
    -  name: Drew Pendergrass
@@ -66,12 +66,12 @@
       blurb: |-
         Hi! My name is Drew, and I am a G3 in Environmental Engineering advised by Daniel Jacob. In my research, I use atmospheric models and machine learning to study air quality and estimate pollutant emissions. Outside of research, I'm a steward in the graduate student union, which means I connect SEAS students with resources and help enforce our contract, which we won together in 2021. In my spare time I run (badly), climb (even more badly), and read.
 - section: "Peer Staffers"
-  description: 
+  description:
   members:
     - name: Sohini Upadhyay
       title: G3, CS
       pronouns: she/her
-      site: 
+      site:
       email: supadhyay@g.harvard.edu
       image: /images/people/sohini-upadhyay.png
       blurb: |-
@@ -80,15 +80,15 @@
       title: G6, CS
       pronouns: he/him
       site: https://jameslarisch.com/
-      email: jameslarisch@g.harvard.edu 
+      email: jameslarisch@g.harvard.edu
       image: /images/people/james-larisch.png
       blurb: |-
         James is a human and a PhD student. He enjoys deep conversations and laughing.
     - name: Sarah Cavanagh
       title: G1, BioE
       pronouns: she/her
-      site: 
-      email: sarahcavanagh@g.harvard.edu 
+      site:
+      email: sarahcavanagh@g.harvard.edu
       image: /images/people/sarah-cavanagh.jpg
       blurb: |-
         Hi! I am Sarah and I am a G2 PhD student in Bioengineering. I am co-advised by Dr. Conor Walsh and Dr. David Lin (MGH) and am working on quantifying upper extremity functional motor abilities post-stroke with and without soft, wearable robots. My hobbies are cooking, reading, and exploring new areas of Boston (usually by trying out new restaurants and cafes)!
@@ -96,19 +96,19 @@
       title: G4, CS
       pronouns: he/him/his
       site: https://www.saisrivatsa.com
-      email: saisr@g.harvard.edu 
+      email: saisr@g.harvard.edu
       image: /images/people/sai-srivatsa.jpg
       blurb: |-
         I am Sai Srivatsa Ravindranath, a Ph.D. Student in Computer Science advised by Prof. David Parkes.  My research lies at the intersection of machine learning and economic theory. When the sun shines, I enjoy hiking, backpacking, and skiing, and on gloomy days, you can find me dancing salsa and bachata. Feel free to get in touch—I am eager to brainstorm ideas and provide assistance or simply lend an ear for a chat!
 - section: "Affiliated Faculty and Admin"
-  description: 
+  description:
   members:
     - name: Finale Doshi-Velez
       title: Professor of Computer Science
       pronouns: she/her
       site: https://finale.seas.harvard.edu/
       image: /images/people/finale-doshi.png
-      email: finale@seas.harvard.edu 
+      email: finale@seas.harvard.edu
       blurb: |-
         Finale has a certification in mediation, played a similar role as a peer while a REF at MIT, and is excited to support the next generation of peer support groups.  
     - name: John Girash
@@ -116,6 +116,6 @@
       pronouns: he/him
       site: https://scholar.harvard.edu/girash/home
       image: /images/people/john-girash.png
-      email: jgirash@seas.harvard.edu 
+      email: jgirash@seas.harvard.edu
       blurb: |-
         Hello! I came to Harvard for grad school in Physics and somehow never left. After working with SEAS TFs at the Bok Center I happily moved over to SEAS; my role is to support our grad students both academically and whole-life-wise, in collaborating with colleagues in GSAS. Contact me whenever it would help, or drop by the Office of Academic Programs to meet all our staff!
