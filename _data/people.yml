@@ -8,7 +8,7 @@
       email: zhou6@fas.harvard.edu
       image: /images/people/larissa-zhou.png
       blurb: |-
-        Hello! I am Larissa Zhou. I am a G4 in Mechanical Engineering & Materials Science, advised by Prof. Dave Weitz. I work on quantifying food texture and building devices for cooking in space. I worked as a food scientist for 7 years between undergrad and grad school. I am happy to talk about adjusting to grad school after being out of academia for a while, burnout, the Harvard bubble, working alone, finding mentors, feeling stupid, figuring out who you want to be when you grow up...I love to climb and to eat Chinese food. 	
+        Hello! I am Larissa Zhou. I am a G4 in Mechanical Engineering & Materials Science, advised by Prof. Dave Weitz. I work on quantifying food texture and building devices for cooking in space. I worked as a food scientist for 7 years between undergrad and grad school. I am happy to talk about adjusting to grad school after being out of academia for a while, burnout, the Harvard bubble, working alone, finding mentors, feeling stupid, figuring out who you want to be when you grow up...I love to climb and to eat Chinese food.
     - name: Yaniv Yacoby
       title: G6, CS
       pronouns: he/him
@@ -40,7 +40,7 @@
       email: rdeshpande@g.harvard.edu
       image: /images/people/ramya-deshpande.png
       blurb: |-
-        Hi! I am Ramya and I am a PhD student in Bioengineering, advised by Michael Brenner. I am currently working on learning mechanistic models for developmental biology. I like reading, art, dancing and am addicted to TikTok! Feel free to reach out to me about anything - happy to chat about anything from work-life balance to imposter syndrome to coping with anxiety in grad school.        
+        Hi! I am Ramya and I am a PhD student in Bioengineering, advised by Michael Brenner. I am currently working on learning mechanistic models for developmental biology. I like reading, art, dancing and am addicted to TikTok! Feel free to reach out to me about anything - happy to chat about anything from work-life balance to imposter syndrome to coping with anxiety in grad school.     
     - name: Talha Rehman
       title: G2, AP
       pronouns: he/him
@@ -57,12 +57,12 @@
       image:
       blurb: |-
         Hello! My name is Alicia and I am a PhD student in Computer Science, advised by Professors David Brooks and Gu-Yeon Wei. My research focuses on computer architecture, and the design of efficient systems for large-scale ML algorithms. In my free time, I love to run, sing, and travel. Please feel free to reach out!
-   -  name: Drew Pendergrass
+    - name: Drew Pendergrass
       title: G4, Environmental Engineering
       pronouns: he/him
       site: http://www.drewpendergrass.com/
       email: pendergrass@g.harvard.edu
-      image: /images/people/pendergrass_photo_for_board.jpg
+      image:
       blurb: |-
         Hi! My name is Drew, and I am a G3 in Environmental Engineering advised by Daniel Jacob. In my research, I use atmospheric models and machine learning to study air quality and estimate pollutant emissions. Outside of research, I'm a steward in the graduate student union, which means I connect SEAS students with resources and help enforce our contract, which we won together in 2021. In my spare time I run (badly), climb (even more badly), and read.
 - section: "Peer Staffers"
@@ -99,7 +99,7 @@
       email: saisr@g.harvard.edu
       image: /images/people/sai-srivatsa.jpg
       blurb: |-
-        I am Sai Srivatsa Ravindranath, a Ph.D. Student in Computer Science advised by Prof. David Parkes.  My research lies at the intersection of machine learning and economic theory. When the sun shines, I enjoy hiking, backpacking, and skiing, and on gloomy days, you can find me dancing salsa and bachata. Feel free to get in touch—I am eager to brainstorm ideas and provide assistance or simply lend an ear for a chat!
+        I am Sai Srivatsa Ravindranath, a Ph.D. Student in Computer Science advised by Prof. David Parkes. My research lies at the intersection of machine learning and economic theory. When the sun shines, I enjoy hiking, backpacking, and skiing, and on gloomy days, you can find me dancing salsa and bachata. Feel free to get in touch—I am eager to brainstorm ideas and provide assistance or simply lend an ear for a chat!
 - section: "Affiliated Faculty and Admin"
   description:
   members:
@@ -110,7 +110,7 @@
       image: /images/people/finale-doshi.png
       email: finale@seas.harvard.edu
       blurb: |-
-        Finale has a certification in mediation, played a similar role as a peer while a REF at MIT, and is excited to support the next generation of peer support groups.  
+        Finale has a certification in mediation, played a similar role as a peer while a REF at MIT, and is excited to support the next generation of peer support groups.
     - name: John Girash
       title: Director of Graduate Education
       pronouns: he/him
