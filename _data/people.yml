@@ -1,22 +1,6 @@
 - section: "Peer Mentors"
   description:
   members:
-    - name: Larissa Zhou
-      title: G5, MechE
-      pronouns: she/hers
-      site: https://larissazhou.github.io/
-      email: zhou6@fas.harvard.edu
-      image: /images/people/larissa-zhou.png
-      blurb: |-
-        Hello! I am Larissa Zhou. I am a G4 in Mechanical Engineering & Materials Science, advised by Prof. Dave Weitz. I work on quantifying food texture and building devices for cooking in space. I worked as a food scientist for 7 years between undergrad and grad school. I am happy to talk about adjusting to grad school after being out of academia for a while, burnout, the Harvard bubble, working alone, finding mentors, feeling stupid, figuring out who you want to be when you grow up...I love to climb and to eat Chinese food.
-    - name: Yaniv Yacoby
-      title: G6, CS
-      pronouns: he/him
-      site: https://yanivyacoby.github.io/
-      email: yanivyacoby@g.harvard.edu
-      image: /images/people/yaniv-yacoby.png
-      blurb: |-
-        Hello! My name is Yaniv and I am a PhD student working with Prof. Finale Doshi-Velez. I work on developing machine learning methodology for safety-critical domains such as healthcare. I love music, reality TV, gummy candy, cycling, and cats. I am happy to brainstorm how to improve advising relationships, building a supportive community, mental health, imposter phenomenon, setting healthy expectations, work-life balance, etc. Feel free to reach out!
     - name: Lily Xu
       title: G5, CS
       pronouns: she/her, they/them
@@ -25,16 +9,8 @@
       image: /images/people/lily-xu.png
       blurb: |-
         Hi! My name is Lily Xu and I am a PhD student studying computer science, advised by Prof. Milind Tambe. My work is on AI for conservation, applying machine learning and game theory to wildlife conservation. I love spending time in the outdoors, dancing, cooking, and riding my bike around Camberville. 
-    - name: Bahareh Tolooshams
-      title: G6, EE
-      pronouns: she/they
-      site: https://btolooshams.github.io/
-      email: btolooshams@seas.harvard.edu
-      image: /images/people/bahareh-tolooshams.png
-      blurb: |-
-        Hello! This is Bahareh. I am a G5 PhD student in Electrical Engineering working with Prof. Demba Ba. I do machine learning research and am interested in developing and analyzing efficient, interpretable, and robust learning algorithms for applications in vision and computational neuroscience. I am happy to chat about anything ranging from work-life balance and mental health to how to build constructive relationships with your advisor. I am here to build a community and like talking to people. I love coffee, reading books, and biking.
     - name: Ramya Deshpande
-      title: G2, BioE
+      title: G3, BioE
       pronouns: she/her
       site:
       email: rdeshpande@g.harvard.edu
@@ -61,7 +37,7 @@
   description:
   members:
     - name: Sohini Upadhyay
-      title: G3, CS
+      title: G4, CS
       pronouns: she/her
       site:
       email: supadhyay@g.harvard.edu
@@ -69,7 +45,7 @@
       blurb: |-
         Hi! My name is Sohini and I am a Computer Science PhD student advised by Krzysztof Gajos. My research spans HCI, tech policy, and AI interpretability. Outside of research, I am a HGSU steward. My hobbies include hiking, skiing, and watching too much reality TV.
     - name: James Larisch
-      title: G6, CS
+      title: G7, CS
       pronouns: he/him
       site: https://jameslarisch.com/
       email: jameslarisch@g.harvard.edu
@@ -77,7 +53,7 @@
       blurb: |-
         James is a human and a PhD student. He enjoys deep conversations and laughing.
     - name: Sarah Cavanagh
-      title: G1, BioE
+      title: G2, BioE
       pronouns: she/her
       site:
       email: sarahcavanagh@g.harvard.edu
@@ -119,3 +95,31 @@
       email: jgirash@seas.harvard.edu
       blurb: |-
         Hello! I came to Harvard for grad school in Physics and somehow never left. After working with SEAS TFs at the Bok Center I happily moved over to SEAS; my role is to support our grad students both academically and whole-life-wise, in collaborating with colleagues in GSAS. Contact me whenever it would help, or drop by the Office of Academic Programs to meet all our staff!
+- section: "Alumni"
+  description:
+  members:
+    - name: Larissa Zhou
+      title: G5, MechE
+      pronouns: she/hers
+      site: https://larissazhou.github.io/
+      email: zhou6@fas.harvard.edu
+      image: /images/people/larissa-zhou.png
+      blurb: |-
+        Hello! I am Larissa Zhou. I am a G4 in Mechanical Engineering & Materials Science, advised by Prof. Dave Weitz. I work on quantifying food texture and building devices for cooking in space. I worked as a food scientist for 7 years between undergrad and grad school. I am happy to talk about adjusting to grad school after being out of academia for a while, burnout, the Harvard bubble, working alone, finding mentors, feeling stupid, figuring out who you want to be when you grow up...I love to climb and to eat Chinese food.
+    - name: Yaniv Yacoby
+      title: G6, CS
+      pronouns: he/him
+      site: https://yanivyacoby.github.io/
+      email: yanivyacoby@g.harvard.edu
+      image: /images/people/yaniv-yacoby.png
+      blurb: |-
+        Hello! My name is Yaniv and I am a PhD student working with Prof. Finale Doshi-Velez. I work on developing machine learning methodology for safety-critical domains such as healthcare. I love music, reality TV, gummy candy, cycling, and cats. I am happy to brainstorm how to improve advising relationships, building a supportive community, mental health, imposter phenomenon, setting healthy expectations, work-life balance, etc. Feel free to reach out!
+    - name: Bahareh Tolooshams
+      title: G6, EE
+      pronouns: she/they
+      site: https://btolooshams.github.io/
+      email: btolooshams@seas.harvard.edu
+      image: /images/people/bahareh-tolooshams.png
+      blurb: |-
+        Hello! This is Bahareh. I am a G5 PhD student in Electrical Engineering working with Prof. Demba Ba. I do machine learning research and am interested in developing and analyzing efficient, interpretable, and robust learning algorithms for applications in vision and computational neuroscience. I am happy to chat about anything ranging from work-life balance and mental health to how to build constructive relationships with your advisor. I am here to build a community and like talking to people. I love coffee, reading books, and biking.
+
