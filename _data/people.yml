@@ -46,7 +46,7 @@ section: "Peer Staffers"
         I am Sai Srivatsa Ravindranath, a Ph.D. Student in Computer Science advised by Prof. David Parkes. My research lies at the intersection of machine learning and economic theory. When the sun shines, I enjoy hiking, backpacking, and skiing, and on gloomy days, you can find me dancing salsa and bachata. Feel free to get in touch—I am eager to brainstorm ideas and provide assistance or simply lend an ear for a chat!
     - name: Drew Pendergrass
       title: G4, Environmental Engineering
-      pronouns: he/him
+      pronouns: he/him/his
       site: http://www.drewpendergrass.com/
       email: pendergrass@
       image: /images/people/pendergrass_photo_for_board.jpg
@@ -61,29 +61,29 @@ section: "Peer Staffers"
       blurb: |-
         Hello! I am a 4th year PhD student in theoretical computer science. I like to think about how ideas from CS can be applied to improve democratic institutions, like redistricting and elections. Outside of research, I like board games, volleyball, hiking, biking, unicycling, and juggling. Please feel free to email me about literally anything, anytime!
     - name: Zana Bucinca
-      title: G5, CS
-      pronouns: he/him/his
+      title: G6, CS
+      pronouns: she/her
       site: https://www.zbucinca.owlstown.net
       email: zanabucinca@
       image: /images/people/zana.jpg
       blurb: |-
-        I am Zana, a PhD student in Computer Science, advised by Professor Krzysztof Gajos. My research is broadly on human-AI interaction. I design, build, and evaluate models, interaction paradigms, and explanation techniques that augment people’s decision-making in the short- and long-term. These days, I enjoy running by the Charles river, dancing, cooking, art, poetry, languages, cultures, dry humor, and stand-up comedy. So far, I have managed to dodge the Western hiking craze and I remain a proud non-hiker.
-    - name: Sai Srivatsa Ravindranath
+        Hi! I am Zana, a PhD student in Computer Science, advised by Professor Krzysztof Gajos. My research is broadly on human-AI interaction. I design, build, and evaluate models, interaction paradigms, and explanation techniques that augment people’s decision-making in the short- and long-term. These days, I enjoy running by the Charles river, dancing, cooking, art, poetry, languages, cultures, dry humor, and stand-up comedy. So far, I have managed to dodge the Western hiking craze and I remain a proud non-hiker.
+    - name: Radhika
+      title: G6, CS
+      pronouns: she/her
+      site: https://www.kharghoshal.xyz
+      email: rghosal@
+      image: /images/people/Radhika.jpg
+      blurb: |-
+        Hi! My name is Radhika and I'm a G5 PhD student in Computer Science, advised by Profs. Vijay Janapa Reddi and David Brooks. My research focuses on building high-performance systems for robotics, but I generally enjoy building things that interact with the physical world. In my spare time, I like trying out new food, skiing, and telling people about my vim configuration.
+    - name: Sanket Shah
       title: G4, CS
       pronouns: he/him/his
-      site: https://www.saisrivatsa.com
-      email: saisr@
-      image: /images/people/sai_srivatsa.jpg
+      site: https://www.sanketkshah.github.io
+      email: sanketshah@
+      image: /images/people/Sanket.jpeg
       blurb: |-
-        I am Sai Srivatsa Ravindranath, a Ph.D. Student in Computer Science advised by Prof. David Parkes. My research lies at the intersection of machine learning and economic theory. When the sun shines, I enjoy hiking, backpacking, and skiing, and on gloomy days, you can find me dancing salsa and bachata. Feel free to get in touch—I am eager to brainstorm ideas and provide assistance or simply lend an ear for a chat!
-    - name: Sai Srivatsa Ravindranath
-      title: G4, CS
-      pronouns: he/him/his
-      site: https://www.saisrivatsa.com
-      email: saisr@
-      image: /images/people/sai_srivatsa.jpg
-      blurb: |-
-        I am Sai Srivatsa Ravindranath, a Ph.D. Student in Computer Science advised by Prof. David Parkes. My research lies at the intersection of machine learning and economic theory. When the sun shines, I enjoy hiking, backpacking, and skiing, and on gloomy days, you can find me dancing salsa and bachata. Feel free to get in touch—I am eager to brainstorm ideas and provide assistance or simply lend an ear for a chat!
+        Sanket is a fourth-year PhD student at Harvard University advised by Prof. Milind Tambe. His work focuses on Decision-Focused Learning, a paradigm for tailoring a predictive model for a downstream optimization task that uses its predictions.
     
 - section: "Affiliated Faculty and Admin"
   description:
