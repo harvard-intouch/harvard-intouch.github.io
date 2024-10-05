@@ -36,15 +36,7 @@
 section: "Peer Staffers"
   description:
   members:
-    - name: Sohini Upadhyay
-      title: G4, CS
-      pronouns: she/her
-      site:
-      email: supadhyay@
-      image: /images/people/sohini-upadhyay.png
-      blurb: |-
-        Hi! My name is Sohini and I am a Computer Science PhD student advised by Krzysztof Gajos. My research spans HCI, tech policy, and AI interpretability. Outside of research, I am a HGSU steward. My hobbies include hiking, skiing, and watching too much reality TV.
-    - name: Sai Srivatsa Ravindranath
+   - name: Sai Srivatsa Ravindranath
       title: G4, CS
       pronouns: he/him/his
       site: https://www.saisrivatsa.com
@@ -122,5 +114,13 @@ section: "Peer Staffers"
       image: /images/people/lily-xu.png
       blurb: |-
         Hi! My name is Lily Xu and I am a PhD student studying computer science, advised by Prof. Milind Tambe. My work is on AI for conservation, applying machine learning and game theory to wildlife conservation. I love spending time in the outdoors, dancing, cooking, and riding my bike around Camberville. 
+     - name: Sohini Upadhyay
+      title: G4, CS
+      pronouns: she/her
+      site:
+      email: supadhyay@
+      image: /images/people/sohini-upadhyay.png
+      blurb: |-
+        Hi! My name is Sohini and I am a Computer Science PhD student advised by Krzysztof Gajos. My research spans HCI, tech policy, and AI interpretability. Outside of research, I am a HGSU steward. My hobbies include hiking, skiing, and watching too much reality TV.
     
 
