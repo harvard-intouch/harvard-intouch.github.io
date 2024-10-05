@@ -52,6 +52,39 @@ section: "Peer Staffers"
       image: /images/people/pendergrass_photo_for_board.jpg
       blurb: |-
         Hi! My name is Drew, and I am a G3 in Environmental Engineering advised by Daniel Jacob. In my research, I use atmospheric models and machine learning to study air quality and estimate pollutant emissions. Outside of research, I am a steward in the graduate student union, which means I connect SEAS students with resources and help enforce our contract, which we won together in 2021. In my spare time I run (badly), climb (even more badly), and read.
+    - name: Jamie Tucker-Foltz
+      title: G4, CS
+      pronouns: he/him/his
+      site: https://www.jamie.tuckerfoltz.com
+      email: jtuckerfoltz@
+      image: /images/people/Jamie.jpg
+      blurb: |-
+        Hello! I am a 4th year PhD student in theoretical computer science. I like to think about how ideas from CS can be applied to improve democratic institutions, like redistricting and elections. Outside of research, I like board games, volleyball, hiking, biking, unicycling, and juggling. Please feel free to email me about literally anything, anytime!
+    - name: Sai Srivatsa Ravindranath
+      title: G4, CS
+      pronouns: he/him/his
+      site: https://www.saisrivatsa.com
+      email: saisr@
+      image: /images/people/sai_srivatsa.jpg
+      blurb: |-
+        I am Sai Srivatsa Ravindranath, a Ph.D. Student in Computer Science advised by Prof. David Parkes. My research lies at the intersection of machine learning and economic theory. When the sun shines, I enjoy hiking, backpacking, and skiing, and on gloomy days, you can find me dancing salsa and bachata. Feel free to get in touch—I am eager to brainstorm ideas and provide assistance or simply lend an ear for a chat!
+    - name: Sai Srivatsa Ravindranath
+      title: G4, CS
+      pronouns: he/him/his
+      site: https://www.saisrivatsa.com
+      email: saisr@
+      image: /images/people/sai_srivatsa.jpg
+      blurb: |-
+        I am Sai Srivatsa Ravindranath, a Ph.D. Student in Computer Science advised by Prof. David Parkes. My research lies at the intersection of machine learning and economic theory. When the sun shines, I enjoy hiking, backpacking, and skiing, and on gloomy days, you can find me dancing salsa and bachata. Feel free to get in touch—I am eager to brainstorm ideas and provide assistance or simply lend an ear for a chat!
+    - name: Sai Srivatsa Ravindranath
+      title: G4, CS
+      pronouns: he/him/his
+      site: https://www.saisrivatsa.com
+      email: saisr@
+      image: /images/people/sai_srivatsa.jpg
+      blurb: |-
+        I am Sai Srivatsa Ravindranath, a Ph.D. Student in Computer Science advised by Prof. David Parkes. My research lies at the intersection of machine learning and economic theory. When the sun shines, I enjoy hiking, backpacking, and skiing, and on gloomy days, you can find me dancing salsa and bachata. Feel free to get in touch—I am eager to brainstorm ideas and provide assistance or simply lend an ear for a chat!
+    
 - section: "Affiliated Faculty and Admin"
   description:
   members:
