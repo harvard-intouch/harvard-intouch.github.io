@@ -17,23 +17,23 @@
       image: /images/people/ramya-deshpande.png
       blurb: |-
         Hi! I am Ramya and I am a PhD student in Bioengineering, advised by Michael Brenner. I am currently working on learning mechanistic models for developmental biology. I like reading, art, dancing and am addicted to TikTok! Feel free to reach out to me about anything - happy to chat about anything from work-life balance to imposter syndrome to coping with anxiety in grad school.     
-    - name: Talha Rehman
-      title: G2, AP
+   - name: Alicia Golden
+      title: G2, CS
+      pronouns: she/her
+      site:
+      email: aliciagolden@
+      image: /images/people/Alicia.jpeg
+      blurb: |-
+        Hello! My name is Alicia and I am a PhD student in Computer Science, advised by Professors David Brooks and Gu-Yeon Wei. My research focuses on computer architecture, and the design of efficient systems for large-scale ML algorithms. In my free time, I love to run, sing, and travel. Please feel free to reach out!
+   - name: Talha Rehman
+      title: G3, AP
       pronouns: he/him
       site: https://www.linkedin.com/in/talharehman/
       email: talha@
       image: /images/people/talha-rehman.png
       blurb: |-
-        I am a PhD student in the Applied Physics program at Harvard University, currently doing rotations. I joined InTouch to support my peers through the ups AND the downs of life as a graduate student. I am part of the leadership team of the Harvard Biotech Club, & Harvard Applied Physics Graduate Council. I am also excited to serve in the role of Maker Fellow at the REEF!
-    - name: Alicia Golden
-      title: G2, CS
-      pronouns: she/her
-      site:
-      email: aliciagolden@
-      image:
-      blurb: |-
-        Hello! My name is Alicia and I am a PhD student in Computer Science, advised by Professors David Brooks and Gu-Yeon Wei. My research focuses on computer architecture, and the design of efficient systems for large-scale ML algorithms. In my free time, I love to run, sing, and travel. Please feel free to reach out!
-- section: "Peer Staffers"
+        I am a PhD student in the Applied Physics program at Harvard University in the Capasso lab. I joined InTouch to support my peers through the ups AND the downs of life as a graduate student. I am part of the leadership team of the Harvard Biotech Club, Nucleate, and the Harvard Neurodiversity Project. I am also excited to serve in the role of Maker Fellow at the REEF!
+section: "Peer Staffers"
   description:
   members:
     - name: Sohini Upadhyay
