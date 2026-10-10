@@ -1,39 +1,72 @@
 - section: "Peer Mentors"
   description:
   members:
+    - name: Abigail Jiang
+      title: G4, AP
+      pronouns: they/them, she/her
+      site:
+      email: ajiang@
+      image: /images/people/abigail-jiang.jpg
+      blurb: |-
+        Hi! My name is Abby, I'm a PhD student in Applied Physics advised by Julia Mundy and Jarad Mason. I work on synthesis and characterization of new solid-state materials to understand how chemical structure impacts quantum properties. I love running & cycling (going fast), fiber arts & reading (going slow), and cooking & eating (making up for the going fast and going slow). Please reach out any time :)
+    - name: Alex Cai
+      title: G2, CS
+      pronouns: he/him
+      site: adzc.ai
+      email: adzcai@
+      image: /images/people/alex-cai.png
+      blurb: |-
+        Hi folks! I'm fascinated by language(s) and their insights into our world. I work under Prof. Kianté Brantley on applied modern NLP in data-scarce settings with the goals of supporting language revitalization initiatives and improving digital accessibility. Ask me about what I've been reading! You can find me practicing language, organizing events with LGBTQ@GSAS and Queer in AI, or watching wildlife behind the SEC.
+    - name: Alicia Golden
+      title: G4, CS
+      pronouns: she/her
+      site:
+      email: aliciagolden@
+      image: /images/people/alicia_golden.jpg
+      blurb: |-
+        Hello! My name is Alicia and I am a PhD student in Computer Science, advised by Professors David Brooks and Gu-Yeon Wei. My research focuses on computer architecture, and the design of efficient systems for large-scale ML algorithms. In my free time, I love to run, sing, and travel. Please feel free to reach out!
+    - name: Danxian Liu
+      title: G4, AP
+      pronouns: she/hers
+      site:
+      email: danxianliu@
+      image: /images/people/danxian-liu.jpg
+      blurb: |-
+        I'm a PhD student in applied physics, advised by Marko Loncar. My research focuses on nanophotonic devices. In my free time, I like to rock climb and do aerials silks!
+    - name: Radhika Ghosal
+      title: G8, CS
+      pronouns: she/her
+      site: https://www.kharghoshal.xyz
+      email: rghosal@
+      image: /images/people/radhika_goshal.jpg
+      blurb: |-
+        Hi, my name's Radhika, and I'm a CS PhD student advised by Profs. Vijay Janapa Reddi and David Brooks. My research is on building chips and compilers for doing robot math faster! Outside of research, I like cooking, skiing, and drinking one million ice-cold beers on warm, sunny days. Always down for a chat and a long walk!
     - name: Sarah Cavanagh
-      title: G3, BioE
+      title: G4, BioE
       pronouns: she/her
       site:
       email: sarahcavanagh@
       image: /images/people/sarah-cavanagh.jpg
       blurb: |-
-        Hi! I am Sarah and I am a G2 PhD student in Bioengineering. I am co-advised by Dr. Conor Walsh and Dr. David Lin (MGH) and am working on quantifying upper extremity functional motor abilities post-stroke with and without soft, wearable robots. My hobbies are cooking, reading, and exploring new areas of Boston (usually by trying out new restaurants and cafes)!
-    - name: Ramya Deshpande
-      title: G4, BioE
+        Hi! I am Sarah and I am a PhD student in Bioengineering. I am co-advised by Dr. Conor Walsh and Dr. David Lin (MGH) and am working on quantifying upper extremity functional motor abilities post-stroke with and without soft, wearable robots. My hobbies are cooking, reading, and exploring new areas of Boston (usually by trying out new restaurants and cafes)!
+    - name: Sukanya Krishna
+      title: G4, CS
       pronouns: she/her
       site:
-      email: rdeshpande@
-      image: /images/people/ramya-deshpande.png
+      email: sukanyakrishna@
+      image: /images/people/sukanya-krishna.jpg
       blurb: |-
-        Hi! I am Ramya and I am a PhD student in Bioengineering, advised by Michael Brenner. I am currently working on learning mechanistic models for developmental biology. I like reading, art, dancing and am addicted to TikTok! Feel free to reach out to me about anything - happy to chat about anything from work-life balance to imposter syndrome to coping with anxiety in grad school.     
-   - name: Alicia Golden
-      title: G3, CS
-      pronouns: she/her
-      site:
-      email: aliciagolden@
-      image: /images/people/alicia_golden.jpeg
-      blurb: |-
-        Hello! My name is Alicia and I am a PhD student in Computer Science, advised by Professors David Brooks and Gu-Yeon Wei. My research focuses on computer architecture, and the design of efficient systems for large-scale ML algorithms. In my free time, I love to run, sing, and travel. Please feel free to reach out!
-   - name: Talha Rehman
-      title: G3, AP
+        Hi! I am a Computer Science Ph.D. student advised by Finale Doshi-Velez researching trustworthy machine learning, human-AI collaboration, and AI for healthcare. I hope to support you as we navigate the unique pressures of academic life, research, and personal growth together. Whether you need a sounding board or someone to talk to through a stressful week, I am here for you! Separate from research you can find me running/hiking, reading, and doing arts and crafts!
+    - name: Talha Rehman
+      title: G4, AP
       pronouns: he/him
       site: https://www.linkedin.com/in/talharehman/
       email: talha@
       image: /images/people/talha-rehman.png
       blurb: |-
         I am a PhD student in the Applied Physics program in the Capasso lab. I joined InTouch to support my peers through the ups AND the downs of life as a graduate student. I am part of the leadership team of the Harvard Biotech Club, Nucleate, and the Harvard Neurodiversity Project. I am also excited to serve in the role of Maker Fellow at the REEF!
-section: "Peer Staffers"
+
+- section: "Peer Staffers"
   description:
   members:
    - name: Sai Srivatsa Ravindranath
@@ -44,14 +77,6 @@ section: "Peer Staffers"
       image: /images/people/sai_srivatsa.jpg
       blurb: |-
         I am Sai Srivatsa Ravindranath, a Ph.D. Student in Computer Science advised by Prof. David Parkes. My research lies at the intersection of machine learning and economic theory. When the sun shines, I enjoy hiking, backpacking, and skiing, and on gloomy days, you can find me dancing salsa and bachata. Feel free to get in touch—I am eager to brainstorm ideas and provide assistance or simply lend an ear for a chat!
-    - name: Drew Pendergrass
-      title: G4, Environmental Engineering
-      pronouns: he/him/his
-      site: http://www.drewpendergrass.com/
-      email: pendergrass@
-      image: /images/people/pendergrass_photo_for_board.jpg
-      blurb: |-
-        Hi! My name is Drew, and I am a G3 in Environmental Engineering advised by Daniel Jacob. In my research, I use atmospheric models and machine learning to study air quality and estimate pollutant emissions. Outside of research, I am a steward in the graduate student union, which means I connect SEAS students with resources and help enforce our contract, which we won together in 2021. In my spare time I run (badly), climb (even more badly), and read.
     - name: Jamie Tucker-Foltz
       title: G4, CS
       pronouns: he/him/his
@@ -68,14 +93,6 @@ section: "Peer Staffers"
       image: /images/people/zana_bucinca.jpg
       blurb: |-
         Hi! I am Zana, a PhD student in Computer Science, advised by Professor Krzysztof Gajos. My research is broadly on human-AI interaction. I design, build, and evaluate models, interaction paradigms, and explanation techniques that augment people’s decision-making in the short- and long-term. These days, I enjoy running by the Charles river, dancing, cooking, art, poetry, languages, cultures, dry humor, and stand-up comedy. So far, I have managed to dodge the Western hiking craze and I remain a proud non-hiker.
-    - name: Radhika Ghosal
-      title: G6, CS
-      pronouns: she/her
-      site: https://www.kharghoshal.xyz
-      email: rghosal@
-      image: /images/people/radhika_goshal.jpg
-      blurb: |-
-        Hi! My name is Radhika and I'm a G5 PhD student in Computer Science, advised by Profs. Vijay Janapa Reddi and David Brooks. My research focuses on building high-performance systems for robotics, but I generally enjoy building things that interact with the physical world. In my spare time, I like trying out new food, skiing, and telling people about my vim configuration.
     - name: Sanket Shah
       title: G4, CS
       pronouns: he/him/his
@@ -84,6 +101,7 @@ section: "Peer Staffers"
       image: /images/people/sanket_shah.jpeg
       blurb: |-
         Sanket is a fourth-year PhD student at Harvard University advised by Prof. Milind Tambe. His work focuses on Decision-Focused Learning, a paradigm for tailoring a predictive model for a downstream optimization task that uses its predictions.    
+
 - section: "Affiliated Faculty and Admin"
   description:
   members:
@@ -106,8 +124,24 @@ section: "Peer Staffers"
 - section: "Alumni"
   description:
   members:
+    - name: Ramya Deshpande
+      title: BioE
+      pronouns: she/her
+      site:
+      email: rdeshpande@
+      image: /images/people/ramya-deshpande.png
+      blurb: |-
+        Hi! I am Ramya and I am a PhD student in Bioengineering, advised by Michael Brenner. I am currently working on learning mechanistic models for developmental biology. I like reading, art, dancing and am addicted to TikTok! Feel free to reach out to me about anything - happy to chat about anything from work-life balance to imposter syndrome to coping with anxiety in grad school.     
+    - name: Drew Pendergrass
+      title: EnvE
+      pronouns: he/him/his
+      site: http://www.drewpendergrass.com/
+      email: pendergrass@
+      image: /images/people/pendergrass_photo_for_board.jpg
+      blurb: |-
+        Hi! My name is Drew, and I am a G3 in Environmental Engineering advised by Daniel Jacob. In my research, I use atmospheric models and machine learning to study air quality and estimate pollutant emissions. Outside of research, I am a steward in the graduate student union, which means I connect SEAS students with resources and help enforce our contract, which we won together in 2021. In my spare time I run (badly), climb (even more badly), and read.
     - name: Larissa Zhou
-      title: G5, MechE
+      title: MechE
       pronouns: she/hers
       site: https://larissazhou.github.io/
       email: 
@@ -115,7 +149,7 @@ section: "Peer Staffers"
       blurb: |-
         Hello! I am Larissa Zhou. I am a G4 in Mechanical Engineering & Materials Science, advised by Prof. Dave Weitz. I work on quantifying food texture and building devices for cooking in space. I worked as a food scientist for 7 years between undergrad and grad school. I am happy to talk about adjusting to grad school after being out of academia for a while, burnout, the Harvard bubble, working alone, finding mentors, feeling stupid, figuring out who you want to be when you grow up...I love to climb and to eat Chinese food.
     - name: Yaniv Yacoby
-      title: G6, CS
+      title: CS
       pronouns: he/him
       site: https://yanivyacoby.github.io/
       email: 
@@ -123,7 +157,7 @@ section: "Peer Staffers"
       blurb: |-
         Hello! My name is Yaniv and I am a PhD student working with Prof. Finale Doshi-Velez. I work on developing machine learning methodology for safety-critical domains such as healthcare. I love music, reality TV, gummy candy, cycling, and cats. I am happy to brainstorm how to improve advising relationships, building a supportive community, mental health, imposter phenomenon, setting healthy expectations, work-life balance, etc. Feel free to reach out!
     - name: Bahareh Tolooshams
-      title: G6, EE
+      title: EE
       pronouns: she/they
       site: https://btolooshams.github.io/
       email: 
@@ -131,7 +165,7 @@ section: "Peer Staffers"
       blurb: |-
         Hello! This is Bahareh. I am a G5 PhD student in Electrical Engineering working with Prof. Demba Ba. I do machine learning research and am interested in developing and analyzing efficient, interpretable, and robust learning algorithms for applications in vision and computational neuroscience. I am happy to chat about anything ranging from work-life balance and mental health to how to build constructive relationships with your advisor. I am here to build a community and like talking to people. I love coffee, reading books, and biking.
     - name: James Larisch
-      title: G7, CS
+      title: CS
       pronouns: he/him
       site: https://jameslarisch.com/
       email: jameslarisch@
@@ -139,15 +173,15 @@ section: "Peer Staffers"
       blurb: |-
         James enjoys deep conversations and laughing.
     - name: Lily Xu
-      title: G5, CS
+      title: CS
       pronouns: she/her, they/them
       site: https://lily-x.github.io/
       email: lily_xu@
       image: /images/people/lily-xu.png
       blurb: |-
         Hi! My name is Lily Xu and I am a PhD student studying computer science, advised by Prof. Milind Tambe. My work is on AI for conservation, applying machine learning and game theory to wildlife conservation. I love spending time in the outdoors, dancing, cooking, and riding my bike around Camberville. 
-     - name: Sohini Upadhyay
-      title: G4, CS
+    - name: Sohini Upadhyay
+      title: CS
       pronouns: she/her
       site:
       email: supadhyay@
