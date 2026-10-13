@@ -27,7 +27,7 @@ InTouch is here to help navigate these different options so ping us if you'd lik
   * [Evan Peck: The Jobs I Didn't See: My Misconceptions of the Academic Job Market](https://medium.com/bucknell-hci/the-jobs-i-didnt-see-my-misconceptions-of-the-academic-job-market-9cb98b057422)
   * [Philipp Kruger: Why it is not a ‘failure’ to leave academia](https://www.nature.com/articles/d41586-018-05838-y)
 * Underrepresented and/or Minoritized Identities:
-  * [Ebony McGee, et al: “I Know I Have to Work Twice as Hard and Hope That Makes Me Good Enough”: Exploring the Stress and Strain of Black Doctoral Students in Engineering and Computing](https://vanderbilt.app.box.com/s/fs7j3c4m7l8mkprmqywrzds0iwuizi9k)
+  * [Ebony McGee, et al: “I Know I Have to Work Twice as Hard and Hope That Makes Me Good Enough”: Exploring the Stress and Strain of Black Doctoral Students in Engineering and Computing](https://doi.org/10.1177/016146811912100407)
   * [Ebony McGee: “Black Genius, Asian Fail”: The Detriment of Stereotype Lift and Stereotype Threat in High-Achieving Asian and Black STEM Students](https://journals.sagepub.com/doi/full/10.1177/2332858418816658)
   * [Philip Guo: Programmer privilege: As an Asian male computer science major, everyone gave me the benefit of the doubt.](https://slate.com/technology/2014/01/programmer-privilege-as-an-asian-male-computer-science-major-everyone-gave-me-the-benefit-of-the-doubt.html)
   * [Lynn Conway: "The Disappeared: Beyond Winning and Losing"](https://www.computer.org/csdl/magazine/co/2018/10/mco2018100066/17D45WXIkDI) 
@@ -66,7 +66,7 @@ Want to learn more? Contact Jackie Yun, Executive Director of GSAS Student Cente
 
 ## Student Services
 
-[Danielle Farrell](https://gsas.harvard.edu/person/danielle-farrell), the Director of Student Services, is your catch-all for all things graduate school. 
-* Loaction: B2, GSAS Student Center
-* Email address: farrell@fas.harvard.edu
+[Katie Mulroy](https://gsas.harvard.edu/person/katie-mulroy), the Director of Student Services, is your catch-all for all things graduate school. 
+* Location: B2, GSAS Student Center
+* Email address: katie_mulroy@fas.harvard.edu
 * Telephone number: 617-495-5005
