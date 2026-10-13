@@ -66,42 +66,6 @@
       blurb: |-
         I am a PhD student in the Applied Physics program in the Capasso lab. I joined InTouch to support my peers through the ups AND the downs of life as a graduate student. I am part of the leadership team of the Harvard Biotech Club, Nucleate, and the Harvard Neurodiversity Project. I am also excited to serve in the role of Maker Fellow at the REEF!
 
-- section: "Peer Staffers"
-  description:
-  members:
-    - name: Sai Srivatsa Ravindranath
-      title: G5, CS
-      pronouns: he/him/his
-      site: https://www.saisrivatsa.com
-      email: saisr@g.harvard.edu
-      image: /images/people/sai_srivatsa.jpg
-      blurb: |-
-        I am Sai Srivatsa Ravindranath, a Ph.D. Student in Computer Science advised by Prof. David Parkes. My research lies at the intersection of machine learning and economic theory. When the sun shines, I enjoy hiking, backpacking, and skiing, and on gloomy days, you can find me dancing salsa and bachata. Feel free to get in touch—I am eager to brainstorm ideas and provide assistance or simply lend an ear for a chat!
-    - name: Jamie Tucker-Foltz
-      title: G4, CS
-      pronouns: he/him/his
-      site: https://www.jamie.tuckerfoltz.com
-      email: jtuckerfoltz@
-      image: /images/people/jamie_tucker-foltz.jpg
-      blurb: |-
-        Hello! I am a 4th year PhD student in theoretical computer science. I like to think about how ideas from CS can be applied to improve democratic institutions, like redistricting and elections. Outside of research, I like board games, volleyball, hiking, biking, unicycling, and juggling. Please feel free to email me about literally anything, anytime!
-    - name: Zana Bucinca
-      title: G6, CS
-      pronouns: she/her
-      site: https://www.zbucinca.owlstown.net
-      email: zanabucinca@
-      image: /images/people/zana_bucinca.jpg
-      blurb: |-
-        Hi! I am Zana, a PhD student in Computer Science, advised by Professor Krzysztof Gajos. My research is broadly on human-AI interaction. I design, build, and evaluate models, interaction paradigms, and explanation techniques that augment people’s decision-making in the short- and long-term. These days, I enjoy running by the Charles river, dancing, cooking, art, poetry, languages, cultures, dry humor, and stand-up comedy. So far, I have managed to dodge the Western hiking craze and I remain a proud non-hiker.
-    - name: Sanket Shah
-      title: G4, CS
-      pronouns: he/him/his
-      site: https://www.sanketkshah.github.io
-      email: sanketshah@
-      image: /images/people/sanket_shah.jpeg
-      blurb: |-
-        Sanket is a fourth-year PhD student at Harvard University advised by Prof. Milind Tambe. His work focuses on Decision-Focused Learning, a paradigm for tailoring a predictive model for a downstream optimization task that uses its predictions.    
-
 - section: "Affiliated Faculty and Admin"
   description:
   members:
@@ -190,3 +154,35 @@
         Hi! My name is Sohini and I am a Computer Science PhD student advised by Krzysztof Gajos. My research spans HCI, tech policy, and AI interpretability. Outside of research, I am a HGSU steward. My hobbies include hiking, skiing, and watching too much reality TV.
     
 
+    - name: Sai Srivatsa Ravindranath
+      title: G5, CS
+      pronouns: he/him/his
+      site: https://www.saisrivatsa.com
+      email: saisr@g.harvard.edu
+      image: /images/people/sai_srivatsa.jpg
+      blurb: |-
+        I am Sai Srivatsa Ravindranath, a Ph.D. Student in Computer Science advised by Prof. David Parkes. My research lies at the intersection of machine learning and economic theory. When the sun shines, I enjoy hiking, backpacking, and skiing, and on gloomy days, you can find me dancing salsa and bachata. Feel free to get in touch—I am eager to brainstorm ideas and provide assistance or simply lend an ear for a chat!
+    - name: Jamie Tucker-Foltz
+      title: G4, CS
+      pronouns: he/him/his
+      site: https://www.jamie.tuckerfoltz.com
+      email: jtuckerfoltz@
+      image: /images/people/jamie_tucker-foltz.jpg
+      blurb: |-
+        Hello! I am a 4th year PhD student in theoretical computer science. I like to think about how ideas from CS can be applied to improve democratic institutions, like redistricting and elections. Outside of research, I like board games, volleyball, hiking, biking, unicycling, and juggling. Please feel free to email me about literally anything, anytime!
+    - name: Zana Bucinca
+      title: G6, CS
+      pronouns: she/her
+      site: https://www.zbucinca.owlstown.net
+      email: zanabucinca@
+      image: /images/people/zana_bucinca.jpg
+      blurb: |-
+        Hi! I am Zana, a PhD student in Computer Science, advised by Professor Krzysztof Gajos. My research is broadly on human-AI interaction. I design, build, and evaluate models, interaction paradigms, and explanation techniques that augment people’s decision-making in the short- and long-term. These days, I enjoy running by the Charles river, dancing, cooking, art, poetry, languages, cultures, dry humor, and stand-up comedy. So far, I have managed to dodge the Western hiking craze and I remain a proud non-hiker.
+    - name: Sanket Shah
+      title: G4, CS
+      pronouns: he/him/his
+      site: https://www.sanketkshah.github.io
+      email: sanketshah@
+      image: /images/people/sanket_shah.jpeg
+      blurb: |-
+        Sanket is a fourth-year PhD student at Harvard University advised by Prof. Milind Tambe. His work focuses on Decision-Focused Learning, a paradigm for tailoring a predictive model for a downstream optimization task that uses its predictions.    
