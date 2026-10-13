@@ -21,7 +21,7 @@ For one-on-one chats, please reach out to the peer mentors at any time (by email
 
   <div class='people'>
     {% for p in s.members %}
-      <div class='person' tabindex='0' {% if p.blurb %} data-tippy-content='{{ p.blurb }}' {% endif %}>
+      <div class='person' tabindex='0' {% if p.blurb %} data-tippy-content="{{ p.blurb | escape }}" {% endif %}>
         <div class='person__image'>
           {% if p.hover %}
             <img class='person__image__hover' src='{{ site.url }}{{ p.hover }}'>
