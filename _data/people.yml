@@ -69,7 +69,7 @@
 - section: "Peer Staffers"
   description:
   members:
-   - name: Sai Srivatsa Ravindranath
+    - name: Sai Srivatsa Ravindranath
       title: G5, CS
       pronouns: he/him/his
       site: https://www.saisrivatsa.com
