@@ -12,7 +12,7 @@
     - name: Alex Cai
       title: G2, CS
       pronouns: he/him
-      site: adzc.ai
+      site: https://adzc.ai
       email: adzcai@
       image: /images/people/alex-cai.png
       blurb: |-
@@ -161,7 +161,7 @@
     - name: Sai Srivatsa Ravindranath
       title: G5, CS
       pronouns: he/him/his
-      site: https://www.saisrivatsa.com
+      site: https://saisrivatsa.com
       email: saisr@
       image: /images/people/sai_srivatsa.jpg
       blurb: |-
@@ -177,7 +177,7 @@
     - name: Zana Bucinca
       title: G6, CS
       pronouns: she/her
-      site: https://www.zbucinca.owlstown.net
+      site: https://zanabucinca.owlstown.net
       email: zanabucinca@
       image: /images/people/zana_bucinca.jpg
       blurb: |-
@@ -185,7 +185,7 @@
     - name: Sanket Shah
       title: G4, CS
       pronouns: he/him/his
-      site: https://www.sanketkshah.github.io
+      site: https://sanketkshah.github.io
       email: sanketshah@
       image: /images/people/sanket_shah.jpeg
       blurb: |-
